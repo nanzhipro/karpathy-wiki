@@ -1,6 +1,8 @@
 # karpathy-wiki
 
-A personal research wiki built from Andrej Karpathy's X posts and talks, following his [LLM Wiki](https://karpathy.ai/) pattern — an LLM-maintained, incrementally-compiled knowledge base on neural networks, LLMs, and deep learning.
+A research wiki built from Andrej Karpathy's X posts and talks. The goal of this repository is to study Karpathy by building a knowledge base around his ideas, then distill his worldview, methods, and recurring patterns.
+
+The project follows Karpathy's [LLM Wiki](https://karpathy.ai/) pattern: an LLM-maintained, incrementally-compiled knowledge base grounded in primary-source notes and references.
 
 Sources live in `raw/` (immutable). The wiki is written and curated by an LLM agent per the protocol in [`CLAUDE.md`](CLAUDE.md).
 
