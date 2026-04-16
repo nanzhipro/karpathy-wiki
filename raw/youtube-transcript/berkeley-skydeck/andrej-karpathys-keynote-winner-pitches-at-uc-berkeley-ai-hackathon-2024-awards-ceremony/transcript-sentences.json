@@ -1,0 +1,4517 @@
+[
+  {
+    "text": "[Applause] Welcome to the closing ceremony  of UC Berkeley's AI hackathon!",
+    "start": "00:00:01",
+    "end": "00:00:07"
+  },
+  {
+    "text": "I want to call on stage the awesome, incredible executive  director of SkyDeck: Caroline Winnett.",
+    "start": "00:00:07",
+    "end": "00:00:14"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:00:14",
+    "end": "00:00:15"
+  },
+  {
+    "text": "Hi everybody, how you doing?",
+    "start": "00:00:15",
+    "end": "00:00:18"
+  },
+  {
+    "text": "[Good] Awesome!",
+    "start": "00:00:18",
+    "end": "00:00:20"
+  },
+  {
+    "text": "You ready to hear who won the hackathon?",
+    "start": "00:00:20",
+    "end": "00:00:24"
+  },
+  {
+    "text": "[Yeah] Yes, you are how many hackers here?",
+    "start": "00:00:24",
+    "end": "00:00:27"
+  },
+  {
+    "text": "How many in the  audience?",
+    "start": "00:00:27",
+    "end": "00:00:29"
+  },
+  {
+    "text": "Oh nice, very good.",
+    "start": "00:00:29",
+    "end": "00:00:30"
+  },
+  {
+    "text": "All right we're going to get started because I think you want to hear  Andrej.",
+    "start": "00:00:30",
+    "end": "00:00:34"
+  },
+  {
+    "text": "Yes, you want to hear Andrej.",
+    "start": "00:00:34",
+    "end": "00:00:35"
+  },
+  {
+    "text": "Yes, you want to hear Andrej.",
+    "start": "00:00:35",
+    "end": "00:00:37"
+  },
+  {
+    "text": "All right, let's quick run through you  want to hear some cool facts about what has been happening?",
+    "start": "00:00:37",
+    "end": "00:00:42"
+  },
+  {
+    "text": "This is what we're going to do today: we're going to get to our pitches soon.",
+    "start": "00:00:42",
+    "end": "00:00:47"
+  },
+  {
+    "text": "This is some pictures all you hackers.",
+    "start": "00:00:47",
+    "end": "00:00:49"
+  },
+  {
+    "text": "Did we have fun?",
+    "start": "00:00:49",
+    "end": "00:00:51"
+  },
+  {
+    "text": "Did we have a good time?",
+    "start": "00:00:51",
+    "end": "00:00:52"
+  },
+  {
+    "text": "I had a absolute blast and yes there were llamas for sure.",
+    "start": "00:00:52",
+    "end": "00:00:57"
+  },
+  {
+    "text": "I was there most of  the time; I was not there at 3 a.",
+    "start": "00:00:57",
+    "end": "00:01:01"
+  },
+  {
+    "text": "m.",
+    "start": "00:01:01",
+    "end": "00:01:01"
+  },
+  {
+    "text": "but I was so impressed with all of you.",
+    "start": "00:01:01",
+    "end": "00:01:03"
+  },
+  {
+    "text": "You hacked your hearts  out and I'm so proud of all of you whether on stage or in audience you're all completely awesome.",
+    "start": "00:01:03",
+    "end": "00:01:11"
+  },
+  {
+    "text": "All right, how many people it took to make this happen?",
+    "start": "00:01:11",
+    "end": "00:01:15"
+  },
+  {
+    "text": "This giant number: 371.",
+    "start": "00:01:15",
+    "end": "00:01:17"
+  },
+  {
+    "text": "UC Berkeley SkyDeck, which I represent, and Cal Hacks educational program and student organization so I think we did  a pretty decent job of getting this all together.",
+    "start": "00:01:17",
+    "end": "00:01:29"
+  },
+  {
+    "text": "This is how it breaks down - Hackathon at Berkeley  directors, Skydeck staff sponsors we're going to give some love to sponsors.",
+    "start": "00:01:29",
+    "end": "00:01:37"
+  },
+  {
+    "text": "As I mentioned, we're  an educational program.",
+    "start": "00:01:37",
+    "end": "00:01:40"
+  },
+  {
+    "text": "Cal Hacks is a student organization; this is all because of the sponsors  so we're going to give them a ton of love when they come up on stage, you with me?",
+    "start": "00:01:40",
+    "end": "00:01:50"
+  },
+  {
+    "text": "Awesome!",
+    "start": "00:01:50",
+    "end": "00:01:51"
+  },
+  {
+    "text": "Okay, 140  judges, 100+ volunteers and 80 mentors hanging out helping everybody.",
+    "start": "00:01:51",
+    "end": "00:01:58"
+  },
+  {
+    "text": "Let me tell you a bit about SkyDeck.",
+    "start": "00:01:58",
+    "end": "00:02:01"
+  },
+  {
+    "text": "Who hasn't heard of SkyDeck anybody?",
+    "start": "00:02:01",
+    "end": "00:02:04"
+  },
+  {
+    "text": "A couple of you.",
+    "start": "00:02:04",
+    "end": "00:02:05"
+  },
+  {
+    "text": "SkyDeck UC Berkeley's Flagship  accelerator: we host 250 startups a year.",
+    "start": "00:02:05",
+    "end": "00:02:11"
+  },
+  {
+    "text": "Our accelerator track gets $200,000 in investment from  our dedicated Venture fund - pretty cool - let me tell you about Berkeley SkyDeck fund.",
+    "start": "00:02:11",
+    "end": "00:02:21"
+  },
+  {
+    "text": "Our dedicated  Venture fund investing in about 40 startups a year (that's a lot of startups for a venture fund by  the way).",
+    "start": "00:02:21",
+    "end": "00:02:28"
+  },
+  {
+    "text": "The 200k investment and who wants to apply to SkyDeck July 16?",
+    "start": "00:02:28",
+    "end": "00:02:33"
+  },
+  {
+    "text": "I want to see all of your  startup applications coming in that's in a month.",
+    "start": "00:02:33",
+    "end": "00:02:39"
+  },
+  {
+    "text": "And hackathons at Berkeley are amazing student  organization truly extraordinary people who helped put us this on this event.",
+    "start": "00:02:39",
+    "end": "00:02:48"
+  },
+  {
+    "text": "This is, of course, what  they do.",
+    "start": "00:02:48",
+    "end": "00:02:50"
+  },
+  {
+    "text": "They do hackathons, they've been doing it for 10 years, they do about 2500 students a year  and of course, they reach a ton of universities.",
+    "start": "00:02:50",
+    "end": "00:03:00"
+  },
+  {
+    "text": "How many people here not from Cal?",
+    "start": "00:03:00",
+    "end": "00:03:02"
+  },
+  {
+    "text": "Hacking not from  Cal?",
+    "start": "00:03:02",
+    "end": "00:03:04"
+  },
+  {
+    "text": "Fantastic.",
+    "start": "00:03:04",
+    "end": "00:03:05"
+  },
+  {
+    "text": "Welcome!",
+    "start": "00:03:05",
+    "end": "00:03:05"
+  },
+  {
+    "text": "Berkeley is a place where we bring great talent in.",
+    "start": "00:03:05",
+    "end": "00:03:09"
+  },
+  {
+    "text": "Y'all are great talent.",
+    "start": "00:03:09",
+    "end": "00:03:10"
+  },
+  {
+    "text": "We brought you here.",
+    "start": "00:03:10",
+    "end": "00:03:12"
+  },
+  {
+    "text": "That's what we do.",
+    "start": "00:03:12",
+    "end": "00:03:13"
+  },
+  {
+    "text": "That's what Berkeley hackathons does.",
+    "start": "00:03:13",
+    "end": "00:03:16"
+  },
+  {
+    "text": "Come to their 11th  big hackathon in San Francisco in October!",
+    "start": "00:03:16",
+    "end": "00:03:21"
+  },
+  {
+    "text": "Check them out on social media.",
+    "start": "00:03:21",
+    "end": "00:03:23"
+  },
+  {
+    "text": "Get on that LinkedIn and  all of that.",
+    "start": "00:03:23",
+    "end": "00:03:25"
+  },
+  {
+    "text": "Okay, who's coming to San Francisco?",
+    "start": "00:03:25",
+    "end": "00:03:27"
+  },
+  {
+    "text": "Y'all coming?",
+    "start": "00:03:27",
+    "end": "00:03:28"
+  },
+  {
+    "text": "Yes, okay fantastic!",
+    "start": "00:03:28",
+    "end": "00:03:29"
+  },
+  {
+    "text": "All right thank  you to our partners, all of you who brought your hackers here, including our friends down in the  South Bay.",
+    "start": "00:03:29",
+    "end": "00:03:38"
+  },
+  {
+    "text": "Thank you for joining us and all the other great universities fantastic.",
+    "start": "00:03:38",
+    "end": "00:03:42"
+  },
+  {
+    "text": "Really happy  to have you.",
+    "start": "00:03:42",
+    "end": "00:03:44"
+  },
+  {
+    "text": "You want to hear Andrej?",
+    "start": "00:03:44",
+    "end": "00:03:46"
+  },
+  {
+    "text": "Do you want to hear Andrej?",
+    "start": "00:03:46",
+    "end": "00:03:48"
+  },
+  {
+    "text": "Yes, please give a huge round  of applause for our keynote speaker, founding member of Open AI!",
+    "start": "00:03:48",
+    "end": "00:03:55"
+  },
+  {
+    "text": "I need the applause, come on!",
+    "start": "00:03:55",
+    "end": "00:03:58"
+  },
+  {
+    "text": "Keep  going!",
+    "start": "00:03:58",
+    "end": "00:03:59"
+  },
+  {
+    "text": "Andrej come on out, Karpathy, yes big applause!",
+    "start": "00:03:59",
+    "end": "00:04:03"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:04:03",
+    "end": "00:04:04"
+  },
+  {
+    "text": "Hi everyone!",
+    "start": "00:04:04",
+    "end": "00:04:05"
+  },
+  {
+    "text": "Yeah uh, so thank you for inviting  me.",
+    "start": "00:04:05",
+    "end": "00:04:10"
+  },
+  {
+    "text": "It's really a great pleasure to be here.",
+    "start": "00:04:10",
+    "end": "00:04:14"
+  },
+  {
+    "text": "Um I love love love hackathons.",
+    "start": "00:04:14",
+    "end": "00:04:16"
+  },
+  {
+    "text": "I think there's, you know, huge amount of energy, huge amount of creativity, young people trying to do cool  things, learning together creating.",
+    "start": "00:04:16",
+    "end": "00:04:24"
+  },
+  {
+    "text": "I don't - it's just like my favorite place to be, and I've had  my fair share of hackathons so really a great pleasure to be be here and talk to you today.",
+    "start": "00:04:24",
+    "end": "00:04:32"
+  },
+  {
+    "text": "Um  so one thing is this is bigger than I expected when they invited me.",
+    "start": "00:04:32",
+    "end": "00:04:37"
+  },
+  {
+    "text": "So this is really large here.",
+    "start": "00:04:37",
+    "end": "00:04:39"
+  },
+  {
+    "text": "Um, I kind of feel like actually the scale of uh the hackathon is quite large, and I guess like one  thing I wanted to start with is that - just in case you're wondering - uh this is not normal for AI.",
+    "start": "00:04:39",
+    "end": "00:04:50"
+  },
+  {
+    "text": "I've been in AI for about 15 years so I can say that with confidence and uh you know it's kind of  just like grown a lot.",
+    "start": "00:04:50",
+    "end": "00:04:58"
+  },
+  {
+    "text": "So for me AI is is you know a couple hundred uh academics getting together  in like a workshop of a conference and you know talking together about some esoteric details  of some math and uh so this is what I'm used to.",
+    "start": "00:04:58",
+    "end": "00:05:12"
+  },
+  {
+    "text": "Uh this is when I entered AI about 15 years ago.",
+    "start": "00:05:12",
+    "end": "00:05:14"
+  },
+  {
+    "text": "You're working with say, when you're training um neural networks you're working with these tiny  digits from MNIST, you're training a restricted boltim machine, you're using contrastive Divergence  to train your network, and then you're scrutinizing these on your first layer to make sure that the  network trained correctly.",
+    "start": "00:05:14",
+    "end": "00:05:30"
+  },
+  {
+    "text": "And I know none of that makes any sense because it's been so long ago uh  but it was a different vibe back then and it was not as crazy.",
+    "start": "00:05:30",
+    "end": "00:05:37"
+  },
+  {
+    "text": "I think things have really gotten  out of proportion to some extent but it is really beautiful to see the energy and today, 15 years  later, it looks a lot more like this.",
+    "start": "00:05:37",
+    "end": "00:05:49"
+  },
+  {
+    "text": "Uh, so this is I guess where AI is today uh and that's also  why this event is large I expect.",
+    "start": "00:05:49",
+    "end": "00:05:54"
+  },
+  {
+    "text": "Um so yeah Nvidia the manufacturer of GPUs, which is used for all  the heavy lifting for our neural networks, is now the most valuable company in the United States  and has taken over, and uh this is the day that we live in today and why we have so many hackathons  like this and so on which I think is quite amazing.",
+    "start": "00:05:54",
+    "end": "00:06:10"
+  },
+  {
+    "text": "But definitely unprecedented and this is a very  unique point in time that you're many many of you maybe are entering the AI field right now  and this is not normal.",
+    "start": "00:06:10",
+    "end": "00:06:17"
+  },
+  {
+    "text": "It's super interesting, super unique.",
+    "start": "00:06:17",
+    "end": "00:06:18"
+  },
+  {
+    "text": "There's a ton happening now.",
+    "start": "00:06:18",
+    "end": "00:06:20"
+  },
+  {
+    "text": "I think  fundamentally the reason behind that is that I think the nature of computation basically is  changing and uh we're kind of have like a new Computing paradigm that we're entering into and  this is very rare.",
+    "start": "00:06:20",
+    "end": "00:06:32"
+  },
+  {
+    "text": "I kind of almost feel like it's 1980s of computing all over again and instead of  having a central processing unit that uh you know works on instructions over bytes, we have these  large language models which are kind of like the central processing unit uh working on tokens  which are little string pieces instead.",
+    "start": "00:06:32",
+    "end": "00:06:49"
+  },
+  {
+    "text": "And uh then in addition to that, we have a contact window  of tokens instead of a ram of bytes and we have equivalence of dis and everything else so it's a  bit like a computer and this is the orchestrator and that's why I call this like the large language  model lmos and uh I've sort of like tweeted about this in some more detail before.",
+    "start": "00:06:49",
+    "end": "00:07:07"
+  },
+  {
+    "text": "And so I see this  as a new computer that we're all learning how to program and uh what it's good at what it's not  as good at, how to incorporate into product and really how to squeeze the most out of it.",
+    "start": "00:07:07",
+    "end": "00:07:18"
+  },
+  {
+    "text": "So that I  think is quite exciting and I think maybe many of you have seen the GPT 40 demo that came out from  open AI two three weeks ago or something like that and you're really starting to get a sense that  this is uh this is a thing that you can actually talk to and uh it responds back in your natural interface of like audio.",
+    "start": "00:07:18",
+    "end": "00:07:37"
+  },
+  {
+    "text": "And it sees and hears and can paint and can do all these things.",
+    "start": "00:07:37",
+    "end": "00:07:41"
+  },
+  {
+    "text": "I think potentially many of you have seen this movie; if you haven't I would definitely watch it  it's extremely inspirational for us today uh movie \"Her\" and actually kind kind of presently in this  movie um when uh this main character here talks to the AI that AI is called an OS an operating system.",
+    "start": "00:07:41",
+    "end": "00:07:57"
+  },
+  {
+    "text": "so I think that's very precedent from that movie uh and it's a beautiful movie and I encourage  you to watch it now the thing is that in this movie I think the focus is very much on like the  emotional intelligence kind of aspects of these models but these models in practice in our society  will probably be doing a ton of problem solving in the digital space and so it's not just going to  be a single digital entity that kind of in some weird way resembles a human almost in that you can  talk to it.",
+    "start": "00:07:57",
+    "end": "00:08:22"
+  },
+  {
+    "text": "But it's not quite a human of course but it's not just a single digital entity maybe  there's many of these digital entities and maybe we can give them tasks and they can talk to each  other and collaborate and they have fake slack threads and they're just doing a ton of work  in the digital space and uh they're automating a ton of digital infrastructure not just uh  digital infrastructure uh but maybe physical infrastructure as well.",
+    "start": "00:08:22",
+    "end": "00:08:43"
+  },
+  {
+    "text": "And this is kind of an  earlier stages I would say and will probably happen uh slightly lagging behind a lot of the  digital Innovations because it's so much easier to work with bits than atoms uh but this is  another movie that I would definitely point you to as one of my favorites.",
+    "start": "00:08:43",
+    "end": "00:08:56"
+  },
+  {
+    "text": "It is not well  very well known at all it's called \"iRobot\" and it's from from 2004.",
+    "start": "00:08:56",
+    "end": "00:09:00"
+  },
+  {
+    "text": "Will Smith amazing movie and  it kind of explores this future with like human robots doing a lot of tasks in society and kind  of spoiler alert it doesn't go so well for these people in this movie and the robots kind of like  take over a little bit uh but um I think it's kind of interesting to think through and I definitely  would encourage you to also watch this movie and this movie takes place in 2035 allegedly which  is 10 years away and so maybe in 10 years you can definitely squint and think about that  maybe we are going to be in a place where uh these things are walking around and talking to  us and Performing tasks in physical world and digital world and what does that look like what  does that mean and how do we program them how do we make sure you know they um that they sort of  do what we want them to Etc.",
+    "start": "00:09:00",
+    "end": "00:09:43"
+  },
+  {
+    "text": "So when you put all this together I think the feeling that people  talk about often is this feeling of AGI like do you feel the AGI quote unquote and what this  means is that you really intuitively understand the magnitude of what could be coming around the  corner if the stuff actually continues to work.",
+    "start": "00:09:43",
+    "end": "00:09:59"
+  },
+  {
+    "text": "The amount of automation that we can  potentially have in both the digital space and the physical space now I don't know about you  but I actually find this picture kind of Bleak.",
+    "start": "00:10:00",
+    "end": "00:10:08"
+  },
+  {
+    "text": "This is what came out when I put a bunch of the  last few minutes of talk into a image generator and I don't actually like this picture.",
+    "start": "00:10:08",
+    "end": "00:10:15"
+  },
+  {
+    "text": "I think  we can do better and you know you have we have a few thousand people here.",
+    "start": "00:10:15",
+    "end": "00:10:19"
+  },
+  {
+    "text": "You're about to enter the industry and you're going to be working on a lot of this technology and you're going to be  shaping it and you'll have some active sort of power over it so I don't know, maybe we want  this to look something like this.",
+    "start": "00:10:19",
+    "end": "00:10:29"
+  },
+  {
+    "text": "I this is what I would like um so this is humans animals and  nature coexisting in Harmony and but secretly this is actually a high-tech society and there  are robots and quadcopters and there's a ton of automation but it's hidden away and it's uh it's  not sort of like in your face and uh so maybe this is something that we want instead and you should  feel a lot of agency over what you want the future to be like because you're going to build it.",
+    "start": "00:10:29",
+    "end": "00:10:53"
+  },
+  {
+    "text": "So  maybe we can agree right now that this is better than the previous picture but I don't know about  you but I would hope so because I'm going to be living in that future I think so the question for  this hackaton.",
+    "start": "00:10:53",
+    "end": "00:11:03"
+  },
+  {
+    "text": "I mean a lot of you have worked on a really a bunch of really cool project over the  last day or two and the question is how do we go from hacking to actually changing the world and  building this future.",
+    "start": "00:11:03",
+    "end": "00:11:14"
+  },
+  {
+    "text": "Whatever that may be for you and so what I thought I would do in this  talk is go over maybe like my last 15 years or so in the industry and I think I had a bit  of a window into how projects become real world change and I have some takeaways and things like  that and that I maybe wanted to talk about.",
+    "start": "00:11:14",
+    "end": "00:11:32"
+  },
+  {
+    "text": "So the first thing that I find really incredible is how  projects that are sometimes very small projects like all of snowballs can actually like snowball  into really big projects and just how incredible that is to watch.",
+    "start": "00:11:32",
+    "end": "00:11:43"
+  },
+  {
+    "text": "So as an example I have my fair  share of hackathons like I mentioned these are some projects from a long time ago that I worked  on over the last 15 years or so so I had a little Rubik's Cube color extractor I put up some game  programming tutorials on YouTube like 13 years ago and tried to teach people programming for games.",
+    "start": "00:11:43",
+    "end": "00:12:01"
+  },
+  {
+    "text": "I had a video games and a lot of them I had this like kind of jankie neuroevolution simulator which  uh was kind of interesting and unsurprisingly not.",
+    "start": "00:12:01",
+    "end": "00:12:11"
+  },
+  {
+    "text": "All of these projects actually go on to snowball.",
+    "start": "00:12:11",
+    "end": "00:12:13"
+  },
+  {
+    "text": "A lot of this is just exploration; you're tinkering and so actually these three projects didn't  really go anywhere for me I wouldn't say that.",
+    "start": "00:12:13",
+    "end": "00:12:19"
+  },
+  {
+    "text": "It was really wasted work it was just like it  didn't add up and didn't snowball but it was still like helping me along the way I'll come  back to that later uh but the game programming tutorials actually ended up snowballing for me  in a certain way because that led me from game programming tutorials to a bunch of Rubik's Cube  videos actually that became kind of popular at the time and this is kind of sparked an interest  in teaching for me and then when I was a PhD student at Stanford I uh got to teach this class  cs231n um and got to develop it and teach it.",
+    "start": "00:12:19",
+    "end": "00:12:47"
+  },
+  {
+    "text": "And this was the first like big deep learning class  at Stanford and uh a lot of people have gone on to like this and then after that I ended up  making another YouTube channel which is um my Zero to Hero series for deep learning and all.",
+    "start": "00:12:47",
+    "end": "00:12:59"
+  },
+  {
+    "text": "So  a lot of people like that as well and then on top of that continuing the snowball the project I'm  currently very interested in is this next class and what it could look like and how I can make  it better and I'm calling that llm 101n and it's about building a Storyteller something like kind  of a chat GPT that you can work with to generate stories and the idea is you build everything from  scratch uh from basic prerequisites all the way to like kind of a chat GPT clone in the domain  of Storytelling and building that from scratch I think will be really instructive could be really  fun I only published this on GitHub like two or three days ago so it's pretty raw and still  very much in the early stages but I'm really excited for it.",
+    "start": "00:12:59",
+    "end": "00:13:34"
+  },
+  {
+    "text": "This for me is an example of a  snowball it started with like 13 years ago little game programming and I'm working on a course  that I think will be really interesting.",
+    "start": "00:13:34",
+    "end": "00:13:44"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:13:44",
+    "end": "00:13:45"
+  },
+  {
+    "text": "Another example from my life I think is the  snowball that I've witnessed with open AI.",
+    "start": "00:13:45",
+    "end": "00:13:53"
+  },
+  {
+    "text": "So as was briefly mentioned I was a founding member  researcher of open AI and so I was there 7 years ago these are some images that are public of  what it was like um uh working out of Greg's apartment like eight of us and uh open AI was  founded to be kind of like a counterbalance to Google.",
+    "start": "00:13:53",
+    "end": "00:14:09"
+  },
+  {
+    "text": "And Google had was like this gorilla with  70 billion free cash flow and back then Google employed like half of the AI research industry  almost so it was kind of like a uh you know um an interesting setup I would say and we were just  like eight people with a laptop so that was really interesting and very similar to my background Open  AI I ended up exploring a large number of projects internally we hired some really good people and  many of them like didn't go uh too far but some of them really did work and so as an example  here's a project that uh was in an early stage a very small snowball at in the early history  of open AI someone worked on a Reddit chatbot .",
+    "start": "00:14:09",
+    "end": "00:14:47"
+  },
+  {
+    "text": "And if you come by their desk and you're like I  what does this look like when someone's working on a Reddit chatbot we're trying to like compete  with Google and you working on a Reddit chatbot like we should be doing something bigger uh and  so it's very easy to dismiss these small snowballs because they're so fragile right these projects  are so fragile in the beginning, but actually this reddit chatbot and by the way don't read too much  into the specific details, these are kind of like random screenshots just for illustration uh but  this was a Reddit chatbot and it looked naive but actually Reddit chatbot what is that?",
+    "start": "00:14:47",
+    "end": "00:15:15"
+  },
+  {
+    "text": "It's a  language model and it happens to be trained on Reddit but actually you could train a a language  model on any arbitrary data not just Reddit and when the Transformer came out this was spun into  something that worked much better and then the domain was expanded from just Reddit to many other  web pages and suddenly you get gpt1 gpt2 3 4 and then you get GPT 40.",
+    "start": "00:15:15",
+    "end": "00:15:34"
+  },
+  {
+    "text": "So actually this Reddit chat  bot that was so easy to dismiss uh actually like ended up leading uh and snowballing into GPT 40  which we currently think of is this like change in the Computing Paradigm and you can talk to it  and it's amazing.",
+    "start": "00:15:34",
+    "end": "00:15:47"
+  },
+  {
+    "text": "So it's really incredible for me to have witnessed some of those um I guess  snowballs and today opening a of course is worth uh maybe somewhere just below 1 billion  or something like that.",
+    "start": "00:15:47",
+    "end": "00:15:57"
+  },
+  {
+    "text": "So a really incredible uh incredible to see some of these snowballs in  practice.",
+    "start": "00:15:57",
+    "end": "00:16:01"
+  },
+  {
+    "text": "So I would say a lot of you over the last two days have also worked on small project - small  snowballs maybe - and it's really incredible to me that some some of them probably won't go anywhere  but probably some of them actually will.",
+    "start": "00:16:01",
+    "end": "00:16:13"
+  },
+  {
+    "text": "And uh you should continue the momentum of your projects and  maybe they can add up to a really big uh snowball and that's really incredible to watch.",
+    "start": "00:16:13",
+    "end": "00:16:20"
+  },
+  {
+    "text": "The next  thing I wanted to briefly talk about is this concept of 10,000 hours that was popularized by  Malcolm Gladwell.",
+    "start": "00:16:20",
+    "end": "00:16:26"
+  },
+  {
+    "text": "I think I actually am quite a big believer in in it and I think that to a very large  extent success comes from just repeated practice and just a huge amount of it and you should be  very willing to put in those 10,000 hours and just literally just count don't be too nervous  about what am I working about am I succeeding or failing etc.",
+    "start": "00:16:26",
+    "end": "00:16:42"
+  },
+  {
+    "text": "Just do simple B counting of how many  hours you're going to you're doing and everything adds up.",
+    "start": "00:16:42",
+    "end": "00:16:46"
+  },
+  {
+    "text": "Even the projects that I failed at and  didn't snowball into anything - those add to my counter of number of hours I've spent developing  my expertise and getting into an empowered state of being able to take on these projects with  confidence and getting them to work so a few examples of that.",
+    "start": "00:16:46",
+    "end": "00:17:01"
+  },
+  {
+    "text": "I made this like really janky  website a few uh weeks ago this was a weekend project and it's called awesomemovies.",
+    "start": "00:17:01",
+    "end": "00:17:08"
+  },
+  {
+    "text": "life and  you you can visit it.",
+    "start": "00:17:08",
+    "end": "00:17:10"
+  },
+  {
+    "text": "I think it still works I'm not 100% sure.",
+    "start": "00:17:10",
+    "end": "00:17:12"
+  },
+  {
+    "text": "I wouldn't recommend you go there.",
+    "start": "00:17:12",
+    "end": "00:17:14"
+  },
+  {
+    "text": "It's trying to be a movie recommendation engine because I was trying to figure out what to watch  on that Saturday and then I was like okay I need to build myself a movie recommendation engine.",
+    "start": "00:17:14",
+    "end": "00:17:22"
+  },
+  {
+    "text": "So I  put this up and one of the tweets that was a reply to mine was wow that's so cool that you got this  to work in weekend and I was kind of reflecting on that at the time because it wasn't as amazing  to me and the reason for that was that what this person is not seeing is that this is my 20th time  like making a website like this uh like and so I see all the steps that what's going to follow.",
+    "start": "00:17:22",
+    "end": "00:17:45"
+  },
+  {
+    "text": "Okay  I need a linode, I need a flask server, I'm going to write some some of this JavaScript stylesheets  HTML, I'm going to spin this up together, I need all I need to scrape all these web pages, I need  to extract tfidf vectors I need to train svm and and all these things are things I've already  done before 20 times.",
+    "start": "00:17:45",
+    "end": "00:18:01"
+  },
+  {
+    "text": "I already have code Snippets lying around from previous projects and I'm just  remixing what I have and I've already done all of this and so remixing everything into a new  form isn't actually that much work and allowed me to put this up over the weekend and it's not  that crazy and this only comes from expertise this only comes from having done it 20 times that  you can do this so confidently.",
+    "start": "00:18:01",
+    "end": "00:18:20"
+  },
+  {
+    "text": "The next example I would say in my life was a Tesla autopilot.",
+    "start": "00:18:20",
+    "end": "00:18:24"
+  },
+  {
+    "text": "So um  I was hired to lead the computer vision team at Tesla autopilot about seven or eight years ago and  uh one of the first things I did actually when I joined the team was I basically ended up rewriting  the computer vision uh deep Learning Network uh training codebase uh from scratch in pytorch.",
+    "start": "00:18:24",
+    "end": "00:18:41"
+  },
+  {
+    "text": "In  some of the first few months that I entered the team, I sort of agree with the whole thing  from scratch and that ended up being a kernel of what it is now and I think to some extent to  some people that looked impressive at the time but for me it wasn't because I was coming from my PhD  and I spent five years doing stuff like that and I knew exactly what needs to go into there I need my  training set my evaluation sets I need my training Loop in pytorch I need my um uh sort of configs  I need my log directories I need to bring in a resonet.",
+    "start": "00:18:41",
+    "end": "00:19:12"
+  },
+  {
+    "text": "I need to put in detection we're doing a  regression classification and so the whole thing like I'm anticipating all the steps and that only  comes from experience that only comes from having done it 20 times before and so I think this makes  a huge difference and things that look impressive are may be much less impressive to you if you've  done it 20 times before so so really try to get to this point where you have your 10,000 hours.",
+    "start": "00:19:12",
+    "end": "00:19:32"
+  },
+  {
+    "text": "It makes a huge difference and uh just uh yeah that's it by the way 10,000 hours if you're doing  six hours per day I think this works out to about 5 years uh so it's about a length of a PhD that  you need to develop expertise in an area uh so I think it's roughly correct that that works out to  about a PhD length.",
+    "start": "00:19:32",
+    "end": "00:19:52"
+  },
+  {
+    "text": "The other thing that I found is actually quite useful is uh to keep the dopamine  flowing be aware of your psychology your brain how it works and what it needs to keep going and how  to keep inspired and so, in particular your brain is a reward machine and it wants rewards and  you need to give it rewards so what is a good way to give it rewards and in my practice It Is by  doing projects and work on projects and continue publishing them and so here I have a web page  snippet of some of the projects I have worked on in the past and these are hackaton projects  and random projects and not all of them are good.",
+    "start": "00:19:52",
+    "end": "00:20:24"
+  },
+  {
+    "text": "Some of them are not quite good Etc but what I  love about project is a number of things number one I love that projects get you to work on  something end to end and depthwise like normally.",
+    "start": "00:20:24",
+    "end": "00:20:34"
+  },
+  {
+    "text": "When you go to classes you're learning in a  breadth wise fashion you're learning a lot of stuff just in case you might need it in the future.",
+    "start": "00:20:34",
+    "end": "00:20:40"
+  },
+  {
+    "text": "Well when you're working on a project you know what you need and you're learning it on demand  and you're just trying to get it to work so I think it's a very different mode of learning that  really complements the breath wise learning and is very important so 100% encourage people to work  on projects the other thing is putting them up is actually also like a really good Jedi mind trick.",
+    "start": "00:20:40",
+    "end": "00:20:59"
+  },
+  {
+    "text": "In my experience the reason for that is that if you're going to put something up, you're thinking  about all the people who are going to be looking at it: your friends and teammates and family and  future employers, etc.",
+    "start": "00:20:59",
+    "end": "00:21:10"
+  },
+  {
+    "text": "And so that really increases the bar for your own work and it makes you  work harder because they're going to be looking at it and you feel shame if it was crappy and so  you work much harder and you're going to go that extra mile to make it really good and that really  uh really helps um and lastly when other people are looking at your projects uh you're going  to get that reward because they like it they appreciate it.",
+    "start": "00:21:10",
+    "end": "00:21:30"
+  },
+  {
+    "text": "They fork it, they work on top of it  and so that feels good to your brain and so the way that this comes together is you are getting  your dopamine you feel good that way you can build up to 10,000 hours of experience and that's  what helps you a lot snowball your project from a small snowball all the way to a really big one and  actually make change in the world.",
+    "start": "00:21:30",
+    "end": "00:21:49"
+  },
+  {
+    "text": "So, in summary, that's I think how it works, like on a high level.",
+    "start": "00:21:50",
+    "end": "00:21:55"
+  },
+  {
+    "text": "And the message is just keep hacking.",
+    "start": "00:21:55",
+    "end": "00:21:57"
+  },
+  {
+    "text": "That's it.",
+    "start": "00:21:57",
+    "end": "00:21:58"
+  },
+  {
+    "text": "[APPLAUSE] And then hopefully, this is  the feature that we are going to build together when we snowball all  of our stuff, or something like that.",
+    "start": "00:21:58",
+    "end": "00:22:10"
+  },
+  {
+    "text": "Uh, but not the not the first picture  I showed hopefully.",
+    "start": "00:22:10",
+    "end": "00:22:13"
+  },
+  {
+    "text": "And that's it!",
+    "start": "00:22:13",
+    "end": "00:22:14"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:22:14",
+    "end": "00:22:14"
+  },
+  {
+    "text": "[APPLAUSE] Andrej Kaparthy, everybody!",
+    "start": "00:22:14",
+    "end": "00:22:22"
+  },
+  {
+    "text": "Thank you Andrej, that was awesome.",
+    "start": "00:22:22",
+    "end": "00:22:24"
+  },
+  {
+    "text": "Thank you, thank you.",
+    "start": "00:22:24",
+    "end": "00:22:25"
+  },
+  {
+    "text": "Alright.",
+    "start": "00:22:27",
+    "end": "00:22:29"
+  },
+  {
+    "text": "Let's get to those pitches.",
+    "start": "00:22:29",
+    "end": "00:22:31"
+  },
+  {
+    "text": "The grand prize—coming up, you're going to hear eight pitches by eight projects—filtered through 290 submissions, narrowed  down to eight.",
+    "start": "00:22:31",
+    "end": "00:22:39"
+  },
+  {
+    "text": "So y'all are going to see some cool stuff.",
+    "start": "00:22:39",
+    "end": "00:22:41"
+  },
+  {
+    "text": "The grand prize is a $25,000 investment (an  actual term sheet from the Berkeley SkyDeck fund).",
+    "start": "00:22:41",
+    "end": "00:22:48"
+  },
+  {
+    "text": "They must commit to hacking all summer on their  project.",
+    "start": "00:22:48",
+    "end": "00:22:52"
+  },
+  {
+    "text": "And they must appropriately form, of course, a legal entity.",
+    "start": "00:22:52",
+    "end": "00:22:55"
+  },
+  {
+    "text": "How do you get money otherwise?",
+    "start": "00:22:55",
+    "end": "00:22:57"
+  },
+  {
+    "text": "All right.",
+    "start": "00:22:57",
+    "end": "00:22:57"
+  },
+  {
+    "text": "I would like to now tell you briefly about how this is going to go.",
+    "start": "00:22:57",
+    "end": "00:23:02"
+  },
+  {
+    "text": "Eight projects, as I said.",
+    "start": "00:23:02",
+    "end": "00:23:04"
+  },
+  {
+    "text": "Three-minute pitch.",
+    "start": "00:23:04",
+    "end": "00:23:06"
+  },
+  {
+    "text": "You guys ready?",
+    "start": "00:23:06",
+    "end": "00:23:07"
+  },
+  {
+    "text": "Three minutes?",
+    "start": "00:23:07",
+    "end": "00:23:07"
+  },
+  {
+    "text": "Yes, they're ready.",
+    "start": "00:23:07",
+    "end": "00:23:09"
+  },
+  {
+    "text": "The judges will then  provide three minutes of feedback.",
+    "start": "00:23:09",
+    "end": "00:23:12"
+  },
+  {
+    "text": "And then after all the pitches, the grand judges will go and  deliberate and pick a winner while we show you some other cool stuff.",
+    "start": "00:23:13",
+    "end": "00:23:20"
+  },
+  {
+    "text": "Alright, I would like to  introduce now to great applause, everybody please, because we have an incredible panel of judges.",
+    "start": "00:23:20",
+    "end": "00:23:28"
+  },
+  {
+    "text": "We are so pleased to have them.",
+    "start": "00:23:28",
+    "end": "00:23:31"
+  },
+  {
+    "text": "Please welcome our first judge, Brian Bordley with the Berkeley SkyDeck Fund.",
+    "start": "00:23:31",
+    "end": "00:23:37"
+  },
+  {
+    "text": "Welcome, Brian!",
+    "start": "00:23:37",
+    "end": "00:23:39"
+  },
+  {
+    "text": "Marcy Vu with Greycroft.",
+    "start": "00:23:39",
+    "end": "00:23:41"
+  },
+  {
+    "text": "Welcome, Marcy!",
+    "start": "00:23:41",
+    "end": "00:23:42"
+  },
+  {
+    "text": "Ninamdi Iregbulem with Lightspeed.",
+    "start": "00:23:45",
+    "end": "00:23:50"
+  },
+  {
+    "text": "Welcome, Ninamdi!",
+    "start": "00:23:50",
+    "end": "00:23:52"
+  },
+  {
+    "text": "Irving Sue with Mayfield Fund.",
+    "start": "00:23:52",
+    "end": "00:23:55"
+  },
+  {
+    "text": "Welcome, Irving!",
+    "start": "00:23:55",
+    "end": "00:23:57"
+  },
+  {
+    "text": "Kurt Keutzer, UC Berkeley faculty and serial entrepreneur.",
+    "start": "00:23:59",
+    "end": "00:24:04"
+  },
+  {
+    "text": "Welcome, Kurt!",
+    "start": "00:24:04",
+    "end": "00:24:05"
+  },
+  {
+    "text": "And Mark Nitzberg, Berkeley faculty and director of the UC Berkeley Center for Human Compatible AI.",
+    "start": "00:24:05",
+    "end": "00:24:11"
+  },
+  {
+    "text": "Thank you, judges.",
+    "start": "00:24:11",
+    "end": "00:24:13"
+  },
+  {
+    "text": "Alright, we got eight startups warming  up backstage.",
+    "start": "00:24:15",
+    "end": "00:24:20"
+  },
+  {
+    "text": "Let's give them a little drum roll.",
+    "start": "00:24:20",
+    "end": "00:24:21"
+  },
+  {
+    "text": "Let's give them a little drum roll, we can get 'em going.",
+    "start": "00:24:22",
+    "end": "00:24:26"
+  },
+  {
+    "text": "I first have to hear if the slide's up— The slide is up first!",
+    "start": "00:24:26",
+    "end": "00:24:30"
+  },
+  {
+    "text": "Are you ready?",
+    "start": "00:24:30",
+    "end": "00:24:31"
+  },
+  {
+    "text": "You ready?",
+    "start": "00:24:31",
+    "end": "00:24:33"
+  },
+  {
+    "text": "Are you ready?",
+    "start": "00:24:33",
+    "end": "00:24:33"
+  },
+  {
+    "text": "Yes!",
+    "start": "00:24:33",
+    "end": "00:24:34"
+  },
+  {
+    "text": "Please give, everybody, a warm round of applause.",
+    "start": "00:24:34",
+    "end": "00:24:36"
+  },
+  {
+    "text": "They've been up all night hacking and they're ready to share with you.",
+    "start": "00:24:36",
+    "end": "00:24:40"
+  },
+  {
+    "text": "Please welcome the first project: Revision!",
+    "start": "00:24:40",
+    "end": "00:24:46"
+  },
+  {
+    "text": "Come  on out come on out!",
+    "start": "00:24:46",
+    "end": "00:24:49"
+  },
+  {
+    "text": "[Applause] Revision, okay oh yes, the mic, that would be helpful.",
+    "start": "00:24:49",
+    "end": "00:24:56"
+  },
+  {
+    "text": "Yeah, thank- thank you.",
+    "start": "00:24:56",
+    "end": "00:24:58"
+  },
+  {
+    "text": "So, good evening everyone!",
+    "start": "00:24:58",
+    "end": "00:25:00"
+  },
+  {
+    "text": "It's my pleasure here on the behalf of my team.",
+    "start": "00:25:00",
+    "end": "00:25:03"
+  },
+  {
+    "text": "Also um, for the Revision project and my name is Danica.",
+    "start": "00:25:03",
+    "end": "00:25:07"
+  },
+  {
+    "text": "I'm a rising senior studying computer science at  UC Berkeley.",
+    "start": "00:25:07",
+    "end": "00:25:10"
+  },
+  {
+    "text": "We have masters of design students as well as data science students on our team  and we're really excited to tell you about our project.",
+    "start": "00:25:10",
+    "end": "00:25:17"
+  },
+  {
+    "text": "So our project, we're focusing on  building an AI co-pilot tool for STEM textbook authors capable of detecting and mitigating bias  in textbooks to create inclusive education content and there is a reason why we're doing this.",
+    "start": "00:25:17",
+    "end": "00:25:30"
+  },
+  {
+    "text": "When  considering overall representation of scientists across textbooks, only 13.",
+    "start": "00:25:30",
+    "end": "00:25:36"
+  },
+  {
+    "text": "1% were women and  compared to 86.",
+    "start": "00:25:36",
+    "end": "00:25:39"
+  },
+  {
+    "text": "9% men in a 2020 study that featured seven of the most frequently used biology  textbooks within the US, and on average people of color only appear every 320 pages of text while  white figures are observed every 24 pages across 10 college stem textbooks published between 2016  and 2020.",
+    "start": "00:25:39",
+    "end": "00:26:00"
+  },
+  {
+    "text": "So we thought about this problem deep and hard and it has been something that I've  seen from my personal studies and starting from elementary school to middle school, we constantly  see different examples of word problems and other situations where text is always there and it's  not always reflective of the actual true history.",
+    "start": "00:26:00",
+    "end": "00:26:17"
+  },
+  {
+    "text": "And this research has been done by numerous  scientists who have gone through this process of identifying people creating databases but there  is just no current fix that and no one is really hoping to create this problem.",
+    "start": "00:26:17",
+    "end": "00:26:28"
+  },
+  {
+    "text": "But there is no  current fix that helps address this problem so the textbook companies actually is who we our team  identified as our buying customer.",
+    "start": "00:26:28",
+    "end": "00:26:36"
+  },
+  {
+    "text": "The current revision process actually takes six to 12 months  of a committee of five or more full-time employees working on bias checks and the issue here is that  employees are actually not experts on their topic.",
+    "start": "00:26:36",
+    "end": "00:26:46"
+  },
+  {
+    "text": "They also bring in their personal biases as well  so our tool would come in right in between the writing and revising part of this entire um this  this entire cycle that developers go through through when writing textbooks.",
+    "start": "00:26:46",
+    "end": "00:27:00"
+  },
+  {
+    "text": "So again here  is our competitive analysis.",
+    "start": "00:27:00",
+    "end": "00:27:03"
+  },
+  {
+    "text": "I'm sure many of you have used Turnitin or Grammarly when you're  submitting even essays and we really think that there needs to be an additional check here for  bias and checking gender racial political and other biases and making this process affordable  and automatic.",
+    "start": "00:27:03",
+    "end": "00:27:17"
+  },
+  {
+    "text": "So it's not uh so it's not a cost it's not a costly process for anyone and through  throughout this process we're addressing supply chain diversity.",
+    "start": "00:27:17",
+    "end": "00:27:26"
+  },
+  {
+    "text": "So starting from a younger age  the elementary school students could be able to use textbooks that truly reflect the true  history as well as themselves.",
+    "start": "00:27:26",
+    "end": "00:27:35"
+  },
+  {
+    "text": "And here is our prototype.",
+    "start": "00:27:35",
+    "end": "00:27:36"
+  },
+  {
+    "text": "So we have our text box here on the  left side of the screen where you get to show in real time, the examples of like some sort  of text that a writer is creating at the moment and on the right, we have an overall score and  the bias checks for um different categories and we're using machine learning models on the back  end to actually identify these as well as llms.",
+    "start": "00:27:36",
+    "end": "00:27:58"
+  },
+  {
+    "text": "And I'm not sure if I can play the Prototype  but okay yeah it does play.",
+    "start": "00:27:58",
+    "end": "00:28:04"
+  },
+  {
+    "text": "So um essentially you can click through the different links to see the  breakdown and once you actually um highlight one of these, we are also adding in an API through  Hume API uh through through a couple of the sponsors here um like such as hume API and more  to actually identify emotional analysis as well um in the textbook writing and in addition to  this we're hoping to build a chat bot that can actually help you also get bringing data databases  from the unrecognized scientists and being able to sort of represent it um because bias actually  exists in three different ways.",
+    "start": "00:28:04",
+    "end": "00:28:38"
+  },
+  {
+    "text": "One of them is through actual like text such as um representing  firefighters um would be nicer than saying Fire Man and the other way is that um the entire tone  and emotional analysis, which is why our team used hume API to actually detect that emotional  component, and the third one is mitigating bias.",
+    "start": "00:28:38",
+    "end": "00:28:58"
+  },
+  {
+    "text": "So we also considered adding in the chat  bot.",
+    "start": "00:28:58",
+    "end": "00:29:00"
+  },
+  {
+    "text": "So say for example, if you want to highlight scientists that are like for example contributing  to physics you wouldn't just say list a few male scientists in call it a day.",
+    "start": "00:29:00",
+    "end": "00:29:10"
+  },
+  {
+    "text": "We would also suggest  equivalent contributions of female scientists as well.",
+    "start": "00:29:10",
+    "end": "00:29:13"
+  },
+  {
+    "text": "So please join me and our team in  revisioning our future of education and work.",
+    "start": "00:29:13",
+    "end": "00:29:19"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:29:19",
+    "end": "00:29:20"
+  },
+  {
+    "text": "So I I think everybody in communication  today—nonprofit or profit—is concerned about diversity so it seems like you have a much  larger market than just textbook educators.",
+    "start": "00:29:20",
+    "end": "00:29:39"
+  },
+  {
+    "text": "Also a comment on kind of like Market sizing  and whatnot: I would I would think about you know potential ways you could expand the market here  because the number of people who are involved in writing textbooks is a relatively small group but  one way to think about it is like maybe in this new era of AI generated content, a much wider  array of people can be part of this textbook generation process so that's one thing.",
+    "start": "00:29:39",
+    "end": "00:30:01"
+  },
+  {
+    "text": "And then  I would also maybe consider selling directly to the consumers of textbooks.",
+    "start": "00:30:01",
+    "end": "00:30:05"
+  },
+  {
+    "text": "In some sense the bias  you're talking about is internalized on that side of the equation not on the manufacturer side and  so there could be an incentive there for people to want to pay for something like those.",
+    "start": "00:30:05",
+    "end": "00:30:14"
+  },
+  {
+    "text": "Yeah  definitely, that's something we're considering.",
+    "start": "00:30:14",
+    "end": "00:30:16"
+  },
+  {
+    "text": "So like the textbook would be our official  buyers that we're marketing to but eventually it would be more of like a grammarly checker  type of tool that anyone can use.",
+    "start": "00:30:16",
+    "end": "00:30:24"
+  },
+  {
+    "text": "Yeah, I had a similar comment on TAM and Market opportunity and as think about just how a textbook gets put into production that if you actually had it as a  tool for whether it's news or other areas.",
+    "start": "00:30:24",
+    "end": "00:30:37"
+  },
+  {
+    "text": "You have more velocity um both in terms of getting the  data to improve your models but also um greater impact.",
+    "start": "00:30:37",
+    "end": "00:30:44"
+  },
+  {
+    "text": "Yeah I'll just I'll just like as well  I mean similar I think everyone here is kind of hitting the theme of how do we think  bigger.",
+    "start": "00:30:44",
+    "end": "00:30:54"
+  },
+  {
+    "text": "So even enterprises right?",
+    "start": "00:30:54",
+    "end": "00:30:56"
+  },
+  {
+    "text": "Like companies setting out communication  internally or externally.",
+    "start": "00:30:56",
+    "end": "00:30:59"
+  },
+  {
+    "text": "I know this this this problem exists everywhere so  that's kind of where my brain would go too.",
+    "start": "00:30:59",
+    "end": "00:31:03"
+  },
+  {
+    "text": "Okay, thank you.",
+    "start": "00:31:03",
+    "end": "00:31:06"
+  },
+  {
+    "text": "Yeah, thank you.",
+    "start": "00:31:06",
+    "end": "00:31:09"
+  },
+  {
+    "text": "Whoops!",
+    "start": "00:31:09",
+    "end": "00:31:11"
+  },
+  {
+    "text": "Agent OS; please welcome Agent OS.",
+    "start": "00:31:11",
+    "end": "00:31:20"
+  },
+  {
+    "text": "Hey there everyone!",
+    "start": "00:31:20",
+    "end": "00:31:22"
+  },
+  {
+    "text": "My name is Shashank I'm here  today with my friends Agam and Dhruv somewhere in the crowd over here.",
+    "start": "00:31:22",
+    "end": "00:31:33"
+  },
+  {
+    "text": "We built today, Agent OS!",
+    "start": "00:31:33",
+    "end": "00:31:35"
+  },
+  {
+    "text": "Picture this: you work at a hair salon and you guys are bombarded every single day and every  single year by your accounting and tax preparation qualms.",
+    "start": "00:31:35",
+    "end": "00:31:44"
+  },
+  {
+    "text": "these are things that are very hard to deal  with and you've heard of tools like open AI chat GPT llm this chat GPT that everything but you have  no clue where to start using these technologies.",
+    "start": "00:31:44",
+    "end": "00:31:54"
+  },
+  {
+    "text": "And that's no fault of your own!",
+    "start": "00:31:54",
+    "end": "00:31:56"
+  },
+  {
+    "text": "The current state  of the technology right now is very bad at multi- functionary tasks; more so it's very hard as an  individual developer sometimes even non technical to even get started with even the simplest  automations or workflows or tools with such llms.",
+    "start": "00:31:56",
+    "end": "00:32:12"
+  },
+  {
+    "text": "Even engineers with years on years of experience  in this space take tens of hundreds of hours and even thousands and thousands of dollars to even  get started to build something.",
+    "start": "00:32:12",
+    "end": "00:32:22"
+  },
+  {
+    "text": "This is where Agent OS completely transforms the landscape.",
+    "start": "00:32:22",
+    "end": "00:32:25"
+  },
+  {
+    "text": "With agent  OS, you're able to create multi-agent workflows in a matter of seconds from natural language.",
+    "start": "00:32:25",
+    "end": "00:32:31"
+  },
+  {
+    "text": "What  does that even mean?",
+    "start": "00:32:31",
+    "end": "00:32:33"
+  },
+  {
+    "text": "Take your average corporate org structure.",
+    "start": "00:32:33",
+    "end": "00:32:34"
+  },
+  {
+    "text": "You have your managers.",
+    "start": "00:32:34",
+    "end": "00:32:35"
+  },
+  {
+    "text": "You have  your workers.",
+    "start": "00:32:35",
+    "end": "00:32:36"
+  },
+  {
+    "text": "And sometimes, you even have your interns.",
+    "start": "00:32:36",
+    "end": "00:32:38"
+  },
+  {
+    "text": "Everyone is really good at what they do: they have their tools, their skills.",
+    "start": "00:32:38",
+    "end": "00:32:42"
+  },
+  {
+    "text": "Let's say John is really good at charting and making PowerPoints.",
+    "start": "00:32:42",
+    "end": "00:32:46"
+  },
+  {
+    "text": "Let's say Steve is really good at Python coding.",
+    "start": "00:32:46",
+    "end": "00:32:49"
+  },
+  {
+    "text": "Everyone's really good at what they do.",
+    "start": "00:32:49",
+    "end": "00:32:51"
+  },
+  {
+    "text": "In this, you have a very collaborative, working together to create this common solution for someone coming  from higher up.",
+    "start": "00:32:51",
+    "end": "00:32:57"
+  },
+  {
+    "text": "That's how agent OS was designed.",
+    "start": "00:32:57",
+    "end": "00:32:59"
+  },
+  {
+    "text": "Our engineers Dhruv and Ugam were able to replicate this human collaborative process programmatically, using LLMs.",
+    "start": "00:32:59",
+    "end": "00:33:07"
+  },
+  {
+    "text": "What does this do?",
+    "start": "00:33:07",
+    "end": "00:33:08"
+  },
+  {
+    "text": "This allows everyone from the common Joe, all the way up to Enterprise clients, to be able to interact and use these multi-agent, agentic workflows in their day-to-day life to improve their quality of life or productivity in all in a matter of seconds and a few sentences.",
+    "start": "00:33:08",
+    "end": "00:33:24"
+  },
+  {
+    "text": "Let's go back to the case study of the hair salon.",
+    "start": "00:33:24",
+    "end": "00:33:27"
+  },
+  {
+    "text": "In the process of doing your taxes and accounting, you  have multiple steps.",
+    "start": "00:33:27",
+    "end": "00:33:31"
+  },
+  {
+    "text": "You have your collection from your receipts and your invoices.",
+    "start": "00:33:31",
+    "end": "00:33:34"
+  },
+  {
+    "text": "You have calculating your cash flow, all the calculations you have to do.",
+    "start": "00:33:34",
+    "end": "00:33:37"
+  },
+  {
+    "text": "You have to manage your workers and then you also have to do your general summary: what about your insights for the year?",
+    "start": "00:33:37",
+    "end": "00:33:42"
+  },
+  {
+    "text": "How you were spending, what you were spending on.",
+    "start": "00:33:42",
+    "end": "00:33:43"
+  },
+  {
+    "text": "And you have to also do a lot of clustering and analytics on  this.",
+    "start": "00:33:43",
+    "end": "00:33:47"
+  },
+  {
+    "text": "This is a very complex workflow that's nearly impossible for modern-day LLMs at the current  state to do right.",
+    "start": "00:33:47",
+    "end": "00:33:53"
+  },
+  {
+    "text": "Now you can take ChatGPT: you ask it a question for even more than three things, it'll forget what the first thing was by the time you're at the second.",
+    "start": "00:33:53",
+    "end": "00:33:59"
+  },
+  {
+    "text": "It doesn't work that way.",
+    "start": "00:33:59",
+    "end": "00:34:00"
+  },
+  {
+    "text": "With Agent OS, this completely changes, where you're able to have these complex workflows.",
+    "start": "00:34:00",
+    "end": "00:34:05"
+  },
+  {
+    "text": "Let's dive into another demo.",
+    "start": "00:34:05",
+    "end": "00:34:07"
+  },
+  {
+    "text": "So let's say I'm an analyst at JP Morgan and my boss tells me, \"Every morning, I want a report of XYZ stock in the morning, a detailed report on paper.",
+    "start": "00:34:07",
+    "end": "00:34:16"
+  },
+  {
+    "text": "\" How do I do that?",
+    "start": "00:34:16",
+    "end": "00:34:17"
+  },
+  {
+    "text": "I use Agent OS.",
+    "start": "00:34:17",
+    "end": "00:34:18"
+  },
+  {
+    "text": "On the screen you can see a bunch of other complex use cases of multiple agents working together  collaboratively, but in the toolbox—in the search bar, you can see the use case of the analyst.",
+    "start": "00:34:18",
+    "end": "00:34:29"
+  },
+  {
+    "text": "Here, I have to do market research and live stock data.",
+    "start": "00:34:29",
+    "end": "00:34:31"
+  },
+  {
+    "text": "I have to search the internet: go on Yahoo Finance, then  I have to create my analysis—technical analysis, qualitative analysis.",
+    "start": "00:34:31",
+    "end": "00:34:38"
+  },
+  {
+    "text": "Then I have to do what my  boss is telling me to do.",
+    "start": "00:34:38",
+    "end": "00:34:40"
+  },
+  {
+    "text": "And after all of that, I have to create charts, graphs and visualizations.",
+    "start": "00:34:40",
+    "end": "00:34:44"
+  },
+  {
+    "text": "Here, you can build tools using natural language like the one right there that says, \"Write me  a tool that fetches the Meta stock price from Yahoo Finance.",
+    "start": "00:34:44",
+    "end": "00:34:52"
+  },
+  {
+    "text": "\" In a matter of seconds, the common  Joe or anyone is able to create that tool, connect them to workers—you can think of workers as your  everyday employees, agents, people that perform these actions using the tools—and then connect  them to super teams.",
+    "start": "00:34:52",
+    "end": "00:35:05"
+  },
+  {
+    "text": "And these teams are able to—on this screen you see four, but you can scale this up to 40, 400 basically complex, vertical, and horizontal organizations that are able to perform  complex decision-making and complex analyses for anyone, from enterprise to consumer.",
+    "start": "00:35:05",
+    "end": "00:35:21"
+  },
+  {
+    "text": "What does this  do?",
+    "start": "00:35:21",
+    "end": "00:35:22"
+  },
+  {
+    "text": "With the multi-agent, multi-team framework, this completely opens the landscape up for anyone and  everyone to take on the power of LLMs into their own hands from natural language.",
+    "start": "00:35:22",
+    "end": "00:35:32"
+  },
+  {
+    "text": "Take your average farmer at a farmer's market.",
+    "start": "00:35:32",
+    "end": "00:35:35"
+  },
+  {
+    "text": "He's trying to create his marketing campaign for the upcoming Farmers'  Market this Sunday.",
+    "start": "00:35:35",
+    "end": "00:35:39"
+  },
+  {
+    "text": "He has no clue where to start looking at his metrics, looking at the customers,  looking at the weather, and creating these brochures, papers, pamphlets and whatnot.",
+    "start": "00:35:39",
+    "end": "00:35:46"
+  },
+  {
+    "text": "With one  line and one minute using Agent OS, he can create all the documentation he needs in order to enact  this stuff and be able to perform successfully and continually and grow his business at his Farmers' Market.",
+    "start": "00:35:46",
+    "end": "00:35:57"
+  },
+  {
+    "text": "Things like this are completely opened up with Agent OS and we hope to completely  democratize the process of using LLMs at all scales, at all geographies, and all use cases within sentences and seconds.",
+    "start": "00:35:57",
+    "end": "00:36:09"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:36:09",
+    "end": "00:36:10"
+  },
+  {
+    "text": "[APPLAUSE] That's a, a compelling proposition.",
+    "start": "00:36:10",
+    "end": "00:36:24"
+  },
+  {
+    "text": "The one thing that I worry about is right now, the agents are the—the LLMs, you know, performing these tasks and there's a  certain question about the veracity and reliability of what they're doing.",
+    "start": "00:36:24",
+    "end": "00:36:48"
+  },
+  {
+    "text": "And so I—I think that in a future where we have that reliability, this would  make perfect sense but I would want to add a kind of tandem subject matter expert, maybe  looking over the shoulder of each of the agents.",
+    "start": "00:36:48",
+    "end": "00:37:05"
+  },
+  {
+    "text": "I think next time I hear this pitch, I'd love to  hear about the one market you're going to crush.",
+    "start": "00:37:05",
+    "end": "00:37:10"
+  },
+  {
+    "text": "It's hard for me to imagine [it] serving a hair  stylist one day, and a Morgan Stanley analyst the next.",
+    "start": "00:37:10",
+    "end": "00:37:16"
+  },
+  {
+    "text": "This is a huge opportunity and a big,  bold mission that you have.",
+    "start": "00:37:20",
+    "end": "00:37:24"
+  },
+  {
+    "text": "I would want to dig a bit deeper into your tech staff and the  people you have on your team because these are really complex problems and issues.",
+    "start": "00:37:24",
+    "end": "00:37:34"
+  },
+  {
+    "text": "And I also agree  that—what would be your first area of focus?",
+    "start": "00:37:34",
+    "end": "00:37:40"
+  },
+  {
+    "text": "Because it's—it's pretty broad and wide.",
+    "start": "00:37:40",
+    "end": "00:37:44"
+  },
+  {
+    "text": "I'll say, I kind of like the broad focus.",
+    "start": "00:37:45",
+    "end": "00:37:47"
+  },
+  {
+    "text": "There's a lot of individual startups tackling each of these  individual, you know, problems, if it's invoicing or research.",
+    "start": "00:37:47",
+    "end": "00:37:54"
+  },
+  {
+    "text": "So it might be interesting  to figure out how to like loop in all these other tools that are out there and really  kind of just be like an interface layer and let these other companies solve the—the technical challenges.",
+    "start": "00:37:54",
+    "end": "00:38:07"
+  },
+  {
+    "text": "Yeah, I think the value proposition of creating multi-agent workflows in a matter of seconds is really compelling.",
+    "start": "00:38:07",
+    "end": "00:38:12"
+  },
+  {
+    "text": "I think the next step would be trying to figure out: how can you go from simply performing these tasks, to becoming the best at these tasks?",
+    "start": "00:38:12",
+    "end": "00:38:19"
+  },
+  {
+    "text": "So for example, going after the outliers—sort of the thesis around coaching networks.",
+    "start": "00:38:19",
+    "end": "00:38:23"
+  },
+  {
+    "text": "Some startups do this and they do it better for like certain verticals than others.",
+    "start": "00:38:23",
+    "end": "00:38:27"
+  },
+  {
+    "text": "So I think doing more research around that could be really compelling.",
+    "start": "00:38:27",
+    "end": "00:38:32"
+  },
+  {
+    "text": "Only thing I would add is just think about, you know, enterprise  security and how you solve for that.",
+    "start": "00:38:33",
+    "end": "00:38:37"
+  },
+  {
+    "text": "There's a lot of authentication and authorization you're going to have to do for all these agents, so just have a answer for that.",
+    "start": "00:38:37",
+    "end": "00:38:42"
+  },
+  {
+    "text": "Well yeah, thank you so much.",
+    "start": "00:38:44",
+    "end": "00:38:46"
+  },
+  {
+    "text": "Thank you everyone.",
+    "start": "00:38:46",
+    "end": "00:38:48"
+  },
+  {
+    "text": "Thank you, Agent OS!",
+    "start": "00:38:48",
+    "end": "00:38:50"
+  },
+  {
+    "text": "Alright, next up, Skyline.",
+    "start": "00:38:50",
+    "end": "00:38:54"
+  },
+  {
+    "text": "Come on out, Skyline!",
+    "start": "00:38:54",
+    "end": "00:38:57"
+  },
+  {
+    "text": "Hey everyone.",
+    "start": "00:39:02",
+    "end": "00:39:02"
+  },
+  {
+    "text": "Hey, so my name is Rajan and I'm a first year student at the University of Waterloo, and I study software engineering.",
+    "start": "00:39:02",
+    "end": "00:39:10"
+  },
+  {
+    "text": "And, I fundamentally believe that cities shouldn't be static.",
+    "start": "00:39:10",
+    "end": "00:39:14"
+  },
+  {
+    "text": "They should optimize and scale for the  people who inhabit them.",
+    "start": "00:39:14",
+    "end": "00:39:18"
+  },
+  {
+    "text": "So we built Skyline.",
+    "start": "00:39:18",
+    "end": "00:39:19"
+  },
+  {
+    "text": "Skyline is a, an optimizer and it allows  you to better understand how to model cities using agents and optimize things like traffic  and transit to-to inherently increase mobility and reduce things like carbon emissions.",
+    "start": "00:39:19",
+    "end": "00:39:36"
+  },
+  {
+    "text": "So this is a very weird problem that we solved, but I want to walk you through the case study of Los Angeles.",
+    "start": "00:39:36",
+    "end": "00:39:43"
+  },
+  {
+    "text": "So Los Angeles is one of the largest carbon emitters in North America.",
+    "start": "00:39:43",
+    "end": "00:39:47"
+  },
+  {
+    "text": "This [is] mostly because of their transit, because of the amount of cars.",
+    "start": "00:39:47",
+    "end": "00:39:50"
+  },
+  {
+    "text": "And so what are ways in which  we can optimize this?",
+    "start": "00:39:50",
+    "end": "00:39:53"
+  },
+  {
+    "text": "Well, let's look directly at the people who inhabit Los Angeles.",
+    "start": "00:39:53",
+    "end": "00:39:57"
+  },
+  {
+    "text": "We can extract census data.",
+    "start": "00:39:57",
+    "end": "00:39:58"
+  },
+  {
+    "text": "Things like age.",
+    "start": "00:39:58",
+    "end": "00:39:59"
+  },
+  {
+    "text": "We can look at things like gender.",
+    "start": "00:39:59",
+    "end": "00:40:01"
+  },
+  {
+    "text": "We can look at things like income.",
+    "start": "00:40:01",
+    "end": "00:40:03"
+  },
+  {
+    "text": "We can find population density graphs, and using this information, we can start to find patterns.",
+    "start": "00:40:03",
+    "end": "00:40:09"
+  },
+  {
+    "text": "Specifically what we did is we created 500 distinct agents.",
+    "start": "00:40:09",
+    "end": "00:40:13"
+  },
+  {
+    "text": "Each agent is a different citizen  with different interests.",
+    "start": "00:40:13",
+    "end": "00:40:17"
+  },
+  {
+    "text": "And what we can do is we can give them each their own chain of thought.",
+    "start": "00:40:17",
+    "end": "00:40:21"
+  },
+  {
+    "text": "Each person here has their own day in their life.",
+    "start": "00:40:21",
+    "end": "00:40:23"
+  },
+  {
+    "text": "For example, this person is a very young  uh, I believe this was a a 22-year-old with a very large income.",
+    "start": "00:40:23",
+    "end": "00:40:29"
+  },
+  {
+    "text": "He has a long day at work and after  work, he goes to the gym.",
+    "start": "00:40:29",
+    "end": "00:40:32"
+  },
+  {
+    "text": "We can now reason about what this person may do, and now model this on a  map.",
+    "start": "00:40:32",
+    "end": "00:40:37"
+  },
+  {
+    "text": "Now once we have how these different agents are moving around, what we can do is we can try and  optimize things like transit.",
+    "start": "00:40:37",
+    "end": "00:40:44"
+  },
+  {
+    "text": "So what what we do here is we have our own proximal policy analyzer,  and this allows us to create simulations on what we believe to be the best way to understand how-how we can move around from any point A and B in-in the fastest way at the lowest  carbon cost.",
+    "start": "00:40:44",
+    "end": "00:41:00"
+  },
+  {
+    "text": "We use our own carbon cost-analysis mechanisms, our own machine learning models to  better understand how we may be emitting carbon and and how to reduce this through our transit.",
+    "start": "00:41:00",
+    "end": "00:41:11"
+  },
+  {
+    "text": "So this is a lot that I just threw at you, and I think the best way for me to represent this to you is through a video.",
+    "start": "00:41:11",
+    "end": "00:41:16"
+  },
+  {
+    "text": "I hope this video loads.",
+    "start": "00:41:16",
+    "end": "00:41:17"
+  },
+  {
+    "text": "Is it possible to play the video?",
+    "start": "00:41:20",
+    "end": "00:41:23"
+  },
+  {
+    "text": "So what we first do, is we have an agent-based simulation.",
+    "start": "00:41:25",
+    "end": "00:41:28"
+  },
+  {
+    "text": "These are 500 distinct things in parallel that are running.",
+    "start": "00:41:28",
+    "end": "00:41:31"
+  },
+  {
+    "text": "Now, they each go around throughout their day, and what we can do is we can find patterns in how they  move around.",
+    "start": "00:41:31",
+    "end": "00:41:37"
+  },
+  {
+    "text": "Now the best part is, what we can do is now that they're all back in their original position, we can start a generation of transit.",
+    "start": "00:41:37",
+    "end": "00:41:43"
+  },
+  {
+    "text": "We're using these patterns to now  generate live, different transit systems that we believe to be the most optimal.",
+    "start": "00:41:43",
+    "end": "00:41:51"
+  },
+  {
+    "text": "So what Skyline is—we're not a company that does analysis of transit.",
+    "start": "00:41:51",
+    "end": "00:41:55"
+  },
+  {
+    "text": "We are a human modeling company, and that allows us to better understand and better predict how  things around us will change and how we can optimize them using these patterns.",
+    "start": "00:41:55",
+    "end": "00:42:06"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:42:06",
+    "end": "00:42:06"
+  },
+  {
+    "text": "So, that's Skyline.",
+    "start": "00:42:06",
+    "end": "00:42:08"
+  },
+  {
+    "text": "Happy to take any feedback.",
+    "start": "00:42:08",
+    "end": "00:42:10"
+  },
+  {
+    "text": "[APPLAUSE] Wow.",
+    "start": "00:42:12",
+    "end": "00:42:23"
+  },
+  {
+    "text": "I-I just want to observe that  what you're doing in creating a sort of digital twin of a city is for the-the essentially, you know, each citizen is being simulated using, you know, one of these  really powerful expensive things [like] a language model.",
+    "start": "00:42:23",
+    "end": "00:42:52"
+  },
+  {
+    "text": "It-it will be, uh, probably  an important step to draw from the language model some of the statistics that  that are actually fed in in the first place.",
+    "start": "00:42:52",
+    "end": "00:43:06"
+  },
+  {
+    "text": "Make sure you're getting what you're what getting  out: what, you know, something representative.",
+    "start": "00:43:06",
+    "end": "00:43:11"
+  },
+  {
+    "text": "But that's very impressive.",
+    "start": "00:43:11",
+    "end": "00:43:13"
+  },
+  {
+    "text": "Yeah, s-similar comment.",
+    "start": "00:43:13",
+    "end": "00:43:15"
+  },
+  {
+    "text": "I think you know there's all sorts of like economic theory about, you know, agents and  modeling their behavior and their values and whatnot, and the thing that usually gets you is  a sort of heterogeneity across the population.",
+    "start": "00:43:15",
+    "end": "00:43:27"
+  },
+  {
+    "text": "So making sure that that actually represents  the populations being modeled is important.",
+    "start": "00:43:27",
+    "end": "00:43:31"
+  },
+  {
+    "text": "And then the other thing also related to value I would think about is just value capture for your own sake, because I feel like this is like a  category of software where, like yeah, the economic impact of this could be massive, but how much  of that do you get to capture as a software vendor is less clear to me.",
+    "start": "00:43:31",
+    "end": "00:43:45"
+  },
+  {
+    "text": "But it's very  interesting.",
+    "start": "00:43:45",
+    "end": "00:43:48"
+  },
+  {
+    "text": "I guess I would be curious about maybe some more nuanced enterprise use cases, as well if it's concerts or security or stadiums.",
+    "start": "00:43:49",
+    "end": "00:43:57"
+  },
+  {
+    "text": "So kind of just thinking about:  are there more micro-use cases that there's a more direct ROI with, um, for this sort of modeling.",
+    "start": "00:43:57",
+    "end": "00:44:08"
+  },
+  {
+    "text": "Yeah, we-we tried to consider ourselves to be a human-modeling software and this is just one of the most visual applications which is transit.",
+    "start": "00:44:08",
+    "end": "00:44:15"
+  },
+  {
+    "text": "Awesome, thank you so much.",
+    "start": "00:44:19",
+    "end": "00:44:22"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:44:22",
+    "end": "00:44:23"
+  },
+  {
+    "text": "Thank you, Skyline.",
+    "start": "00:44:23",
+    "end": "00:44:25"
+  },
+  {
+    "text": "Alright, next up we have, we have...",
+    "start": "00:44:25",
+    "end": "00:44:30"
+  },
+  {
+    "text": "Spark!",
+    "start": "00:44:30",
+    "end": "00:44:31"
+  },
+  {
+    "text": "Please welcome Spark!",
+    "start": "00:44:31",
+    "end": "00:44:35"
+  },
+  {
+    "text": "[APPLAUSE] Hi, how's everyone?",
+    "start": "00:44:35",
+    "end": "00:44:39"
+  },
+  {
+    "text": "How's Cali?",
+    "start": "00:44:39",
+    "end": "00:44:40"
+  },
+  {
+    "text": "We are Spark, and we're giving a voice to new entrepreneurs, young entrepreneurs.",
+    "start": "00:44:40",
+    "end": "00:44:47"
+  },
+  {
+    "text": "So let's admit it: cold-calling is really hard.",
+    "start": "00:44:47",
+    "end": "00:44:50"
+  },
+  {
+    "text": "I mean, resources are hard to get, it's  a steep learning curve, and getting attention is hard.",
+    "start": "00:44:50",
+    "end": "00:44:56"
+  },
+  {
+    "text": "If you've cold called someone, you know they  don't have time.",
+    "start": "00:44:56",
+    "end": "00:44:59"
+  },
+  {
+    "text": "They'll say, \"Oh sorry.",
+    "start": "00:44:59",
+    "end": "00:45:01"
+  },
+  {
+    "text": "Call me back later.",
+    "start": "00:45:01",
+    "end": "00:45:01"
+  },
+  {
+    "text": "\" I mean, they're busy, everyone's busy.",
+    "start": "00:45:01",
+    "end": "00:45:03"
+  },
+  {
+    "text": "We have things to do, so we have to figure out how can we earn the time of working people.",
+    "start": "00:45:03",
+    "end": "00:45:08"
+  },
+  {
+    "text": "There's existing solutions: it's long and arduous for trial and error.",
+    "start": "00:45:08",
+    "end": "00:45:14"
+  },
+  {
+    "text": "It's expensive for a sales coach.",
+    "start": "00:45:14",
+    "end": "00:45:16"
+  },
+  {
+    "text": "And finally,  if you have a sales partner, chemistry isn't easy if you're just meeting them, right?",
+    "start": "00:45:16",
+    "end": "00:45:22"
+  },
+  {
+    "text": "Well, we have a process: you upload a transcript to our software, we go through and analyze the emotion, we aggregate this data, and we give you productive feedback.",
+    "start": "00:45:22",
+    "end": "00:45:33"
+  },
+  {
+    "text": "Who's our target market?",
+    "start": "00:45:33",
+    "end": "00:45:35"
+  },
+  {
+    "text": "Well, look around.",
+    "start": "00:45:35",
+    "end": "00:45:36"
+  },
+  {
+    "text": "You guys are our target market.",
+    "start": "00:45:36",
+    "end": "00:45:39"
+  },
+  {
+    "text": "People who are engineers.",
+    "start": "00:45:39",
+    "end": "00:45:40"
+  },
+  {
+    "text": "People who love to build and  say, this weekend you made some sort of product you want to sell.",
+    "start": "00:45:40",
+    "end": "00:45:45"
+  },
+  {
+    "text": "You don't have much experience with sales or outreach, but with our software, you can record your cold outreach and we can tell you  what you've done right and how you can improve to hopefully land your product where it needs to be.",
+    "start": "00:45:45",
+    "end": "00:45:59"
+  },
+  {
+    "text": "Later on, we want to expand to call centers and sales staffs, because we think we can spread  this across an organization and it can be highly profitable.",
+    "start": "00:45:59",
+    "end": "00:46:08"
+  },
+  {
+    "text": "We have usage-based tiering, so  75 cents a minute for 1,000 hours going up to 40 cents for 10,000.",
+    "start": "00:46:08",
+    "end": "00:46:16"
+  },
+  {
+    "text": "So this is our software, and I  want to tell you guys a story.",
+    "start": "00:46:16",
+    "end": "00:46:22"
+  },
+  {
+    "text": "I started being an entrepreneur around 6 months ago, and we made an  AI body-cam analysis startup.",
+    "start": "00:46:22",
+    "end": "00:46:29"
+  },
+  {
+    "text": "So I did 100 phone calls—100 cold calls.",
+    "start": "00:46:29",
+    "end": "00:46:32"
+  },
+  {
+    "text": "I got no clients.",
+    "start": "00:46:32",
+    "end": "00:46:34"
+  },
+  {
+    "text": "200, 300, 500, and 700.",
+    "start": "00:46:34",
+    "end": "00:46:36"
+  },
+  {
+    "text": "No one was responding to me, so by 800, I got actually three.",
+    "start": "00:46:36",
+    "end": "00:46:41"
+  },
+  {
+    "text": "And I realized something:  the human brain is pretty amazing.",
+    "start": "00:46:41",
+    "end": "00:46:45"
+  },
+  {
+    "text": "We're able to pick up on patterns but at the same time, it's kind of inefficient because it took 800.",
+    "start": "00:46:45",
+    "end": "00:46:52"
+  },
+  {
+    "text": "Here, we look at the emotion between every single sentence  and we figure out spikes of emotion and decreasing emotions.",
+    "start": "00:46:52",
+    "end": "00:46:59"
+  },
+  {
+    "text": "We see that when we talk  about security and data privacy with police officers, it shows an increase in their interest  and this was a trend among many conversations we had.",
+    "start": "00:46:59",
+    "end": "00:47:09"
+  },
+  {
+    "text": "So, in our analysis page, we see in the top  left that mentioning AI accuracy and efficiency increased officer safety, and discussing cost  savings really helped us when we were talking to officers because we're some college students,  right?",
+    "start": "00:47:09",
+    "end": "00:47:26"
+  },
+  {
+    "text": "We're dealing with some pretty confidential data.",
+    "start": "00:47:26",
+    "end": "00:47:28"
+  },
+  {
+    "text": "Bringing this up early really helped improve our rates, and the four things you see here in the corners are the different triggers we generated  automatically based on the cold calls we had.",
+    "start": "00:47:28",
+    "end": "00:47:40"
+  },
+  {
+    "text": "So one is positive reactions, negative reactions,  escalate or de-escalating, tense situations, and normalizing exciting situations.",
+    "start": "00:47:40",
+    "end": "00:47:49"
+  },
+  {
+    "text": "We also generate  insights too based on whatever cold-calling trends you make.",
+    "start": "00:47:49",
+    "end": "00:47:55"
+  },
+  {
+    "text": "We also have a RAG so you can upload  your company knowledge, your target audience, and your pricing information.",
+    "start": "00:47:55",
+    "end": "00:48:02"
+  },
+  {
+    "text": "So if you make a mistake,  don't worry.",
+    "start": "00:48:02",
+    "end": "00:48:04"
+  },
+  {
+    "text": "We got your back.",
+    "start": "00:48:04",
+    "end": "00:48:05"
+  },
+  {
+    "text": "We'll tell you, \"Hey.",
+    "start": "00:48:05",
+    "end": "00:48:06"
+  },
+  {
+    "text": "Maybe instead of saying this, you could have  said this because it might have helped you out a little bit.",
+    "start": "00:48:06",
+    "end": "00:48:11"
+  },
+  {
+    "text": "\" Sorry, my team picture isn't on here  but thank you to Tushar and Nick and Krishna.",
+    "start": "00:48:11",
+    "end": "00:48:18"
+  },
+  {
+    "text": "You guys were a great team and I'm honored to be here  representing you guys today.",
+    "start": "00:48:18",
+    "end": "00:48:23"
+  },
+  {
+    "text": "I'm open to feedback.",
+    "start": "00:48:23",
+    "end": "00:48:24"
+  },
+  {
+    "text": "[APPLAUSE] I guess I need to be the first person to say that  you're, uh, entering a pretty competitive market with other offerings here.",
+    "start": "00:48:24",
+    "end": "00:48:41"
+  },
+  {
+    "text": "So yeah.",
+    "start": "00:48:41",
+    "end": "00:48:42"
+  },
+  {
+    "text": "I'll say something that stuck out to me was this idea of of insights, but I-I think you know at  an organization, there's going to might be a sales team, and a marketing team, and an online web team.",
+    "start": "00:48:42",
+    "end": "00:48:54"
+  },
+  {
+    "text": "And those teams don't really talk to each other, so maybe it's interesting to think about: how do you pull insights from like one channel of sales or marketing, and actually bring that into  another channel?",
+    "start": "00:48:54",
+    "end": "00:49:03"
+  },
+  {
+    "text": "So maybe the insights from cold-calling are actually influencing what's going  on the website.",
+    "start": "00:49:03",
+    "end": "00:49:08"
+  },
+  {
+    "text": "Maybe there's some interesting spots of opportunity there.",
+    "start": "00:49:08",
+    "end": "00:49:11"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:49:11",
+    "end": "00:49:12"
+  },
+  {
+    "text": "I could actually  talk about one facet of this we want to explore deeply.",
+    "start": "00:49:12",
+    "end": "00:49:17"
+  },
+  {
+    "text": "I want to give you an example.",
+    "start": "00:49:17",
+    "end": "00:49:18"
+  },
+  {
+    "text": "Say we  have three founders in the company, right?",
+    "start": "00:49:18",
+    "end": "00:49:20"
+  },
+  {
+    "text": "I have a first cold call with one person and later on, my  second co-founder wants to set up a warmer call right in the future.",
+    "start": "00:49:20",
+    "end": "00:49:26"
+  },
+  {
+    "text": "And then my third founder  wants to set up a third call.",
+    "start": "00:49:26",
+    "end": "00:49:29"
+  },
+  {
+    "text": "We want to build a profile for this client as they go along so we can  truly understand them.",
+    "start": "00:49:29",
+    "end": "00:49:34"
+  },
+  {
+    "text": "And also, we want to develop a profile on ourselves, too, so we can learn more  about ourselves as we go and how we're behaving, make sure that we're learning as we go.",
+    "start": "00:49:34",
+    "end": "00:49:44"
+  },
+  {
+    "text": "So we're thinking: if we develop a CRM on top of this data that we leverage, then we can connect  multiple teams and enable cross-functional benefit.",
+    "start": "00:49:44",
+    "end": "00:49:53"
+  },
+  {
+    "text": "Yeah, I had a similar comment.",
+    "start": "00:49:54",
+    "end": "00:49:56"
+  },
+  {
+    "text": "I think it would be really game-changing if, in addition to some of the real-time analyses you guys are  doing around sentiment, where you can see the system with information on prior calls, or this  person's particular strengths and weaknesses and how they complement those of the other people  on the team, and to really build the CRM—this knowledge graph around each person's strengths  and weaknesses on the team to be able to better fine-tune the system.",
+    "start": "00:49:56",
+    "end": "00:50:21"
+  },
+  {
+    "text": "Yeah, thank you.",
+    "start": "00:50:21",
+    "end": "00:50:22"
+  },
+  {
+    "text": "You guys saw  the analysis, but also, there's a long list of past conversations—you can actually go into every  single conversation you've ever had and look at it deeply the same way you did in the latest conversation.",
+    "start": "00:50:22",
+    "end": "00:50:33"
+  },
+  {
+    "text": "I would think about the full sales funnel.",
+    "start": "00:50:35",
+    "end": "00:50:37"
+  },
+  {
+    "text": "Um, this is pretty deep down in it and as  you think about where are you really going to be able to convert or where-where is the wedge,  that really matters because there's a lot that goes into converting a sale, and it's not just  the cold call.",
+    "start": "00:50:37",
+    "end": "00:50:54"
+  },
+  {
+    "text": "So is the issue, are you actually calling the right people, or is the issue, like, are  you actually speaking to the right decision makers?",
+    "start": "00:50:54",
+    "end": "00:51:02"
+  },
+  {
+    "text": "So just thinking more broadly about that funnel, and where you might actually be able to have the most impact and have the right wedge into  the broader product suite.",
+    "start": "00:51:02",
+    "end": "00:51:14"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:51:14",
+    "end": "00:51:15"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:51:15",
+    "end": "00:51:18"
+  },
+  {
+    "text": "Alright.",
+    "start": "00:51:18",
+    "end": "00:51:19"
+  },
+  {
+    "text": "Thank you, Spark!",
+    "start": "00:51:19",
+    "end": "00:51:22"
+  },
+  {
+    "text": "[APPLAUSE] Clicker.",
+    "start": "00:51:22",
+    "end": "00:51:25"
+  },
+  {
+    "text": "Clicker!",
+    "start": "00:51:25",
+    "end": "00:51:26"
+  },
+  {
+    "text": "Thank you!",
+    "start": "00:51:26",
+    "end": "00:51:28"
+  },
+  {
+    "text": "Okay.",
+    "start": "00:51:28",
+    "end": "00:51:29"
+  },
+  {
+    "text": "Next up, we have HearMeOut!",
+    "start": "00:51:29",
+    "end": "00:51:33"
+  },
+  {
+    "text": "Please welcome HearMeOut!",
+    "start": "00:51:33",
+    "end": "00:51:37"
+  },
+  {
+    "text": "[APPLAUSE] Hey guys.",
+    "start": "00:51:37",
+    "end": "00:51:42"
+  },
+  {
+    "text": "Hi, my name  is Marcus from HearMeOut and what we've built is an AI-driven customer service pipeline,  optimizing call-matching and visibility.",
+    "start": "00:51:42",
+    "end": "00:51:51"
+  },
+  {
+    "text": "So that might leave you scratching your head, so let's just  talk about the problem.",
+    "start": "00:51:51",
+    "end": "00:51:55"
+  },
+  {
+    "text": "So let me give you a bit of context: I'm an exchange student, and when I  first came here, I had to deal with so many things.",
+    "start": "00:51:55",
+    "end": "00:52:00"
+  },
+  {
+    "text": "I had to deal with banking, I had to deal  with insurance, I had to deal with deliveries, and even had my car break down to me.",
+    "start": "00:52:00",
+    "end": "00:52:06"
+  },
+  {
+    "text": "And that was a real pain.",
+    "start": "00:52:06",
+    "end": "00:52:08"
+  },
+  {
+    "text": "In short, I was overwhelmed by the sheer number of customer service calls because for each of these things, I had to make so many calls just to get things  done.",
+    "start": "00:52:08",
+    "end": "00:52:15"
+  },
+  {
+    "text": "And I think a lot of you guys can relate to that.",
+    "start": "00:52:15",
+    "end": "00:52:17"
+  },
+  {
+    "text": "We've all had our fair share of bad call  experiences: where we're upset, the customer service representative is also upset, and nothing gets  done.",
+    "start": "00:52:17",
+    "end": "00:52:24"
+  },
+  {
+    "text": "We've also had good experiences, as well, and I think that's the core of what we're trying  to tackle here.",
+    "start": "00:52:24",
+    "end": "00:52:29"
+  },
+  {
+    "text": "We want to create a pipeline that tries to provide optimal matching and provide  visibility on emotional data to businesses.",
+    "start": "00:52:29",
+    "end": "00:52:38"
+  },
+  {
+    "text": "So we also did the research, and I think the numbers  speak for itself.",
+    "start": "00:52:38",
+    "end": "00:52:41"
+  },
+  {
+    "text": "This is a key problem with a sizable market, and a sheer number of people are  affected by this as well.",
+    "start": "00:52:41",
+    "end": "00:52:46"
+  },
+  {
+    "text": "And this is our problem statement, which is: \"how might businesses which  offer customer service calls provide a better experience for their customers?",
+    "start": "00:52:46",
+    "end": "00:52:54"
+  },
+  {
+    "text": "\" So we think we can  tackle this in four key components.",
+    "start": "00:52:54",
+    "end": "00:52:57"
+  },
+  {
+    "text": "First of all, an improved call bot.",
+    "start": "00:52:57",
+    "end": "00:52:59"
+  },
+  {
+    "text": "We all are common with that  initial robo-call that we have to deal with, and sometimes it's really, really frustrating.",
+    "start": "00:52:59",
+    "end": "00:53:05"
+  },
+  {
+    "text": "How many times you had a call talk to you, and it just doesn't direct you to the right person?",
+    "start": "00:53:05",
+    "end": "00:53:09"
+  },
+  {
+    "text": "I think we've all experienced that before.",
+    "start": "00:53:09",
+    "end": "00:53:11"
+  },
+  {
+    "text": "Second and third—and I think this comes hand in hand—is  just business visibility.",
+    "start": "00:53:11",
+    "end": "00:53:14"
+  },
+  {
+    "text": "We want to provide businesses with better visibility of both call,  and uh, both call experiences' data, as well as customer representatives' bandwidths over the  day, as they continue to take calls.",
+    "start": "00:53:14",
+    "end": "00:53:25"
+  },
+  {
+    "text": "And finally, this is where we put those two together: we  want to take that data and optimize a customer's journey through a best—through a better customer-to-service  representative matching.",
+    "start": "00:53:25",
+    "end": "00:53:35"
+  },
+  {
+    "text": "So I won't bore you with this data, but with-with that in  mind, we developed a set of decoupled micro-services and I just want to point three key parts out to you.",
+    "start": "00:53:35",
+    "end": "00:53:45"
+  },
+  {
+    "text": "So first of all, we want to assess customer agreeability with an initial robocall.",
+    "start": "00:53:45",
+    "end": "00:53:50"
+  },
+  {
+    "text": "But this won't just be your normal robocall; we want to use Hume's EVI to manage the robocall  in an empathetic manner, such that it measures the customer's emotions as they go through the  call and eventually outputs an agreeability score for the customer.",
+    "start": "00:53:50",
+    "end": "00:54:04"
+  },
+  {
+    "text": "Second of all,   we have a call analysis feedback loop and that's that whole thing on the right that goes down below.",
+    "start": "00:54:04",
+    "end": "00:54:10"
+  },
+  {
+    "text": "What this does is once you have a call connected between a customer and a representative, it takes  in multiple factors of data—such as the call duration, the emotional change over the call, and  the overall call outcome—using Hume's emotional measurement EVI.",
+    "start": "00:54:10",
+    "end": "00:54:22"
+  },
+  {
+    "text": "We can then also generate a call score.",
+    "start": "00:54:22",
+    "end": "00:54:24"
+  },
+  {
+    "text": "Finally—and this is the third and key part to this—it's the matching API.",
+    "start": "00:54:24",
+    "end": "00:54:28"
+  },
+  {
+    "text": "Using the two things that I just mentioned, we can best match a customer to a customer-service representative which matches  their vibe, their energy, and their emotions based on how our custom model is developed.",
+    "start": "00:54:28",
+    "end": "00:54:38"
+  },
+  {
+    "text": "So what's the outcome of all of this?",
+    "start": "00:54:38",
+    "end": "00:54:40"
+  },
+  {
+    "text": "As a representative goes through their day, their state  changes depending on how their calls go, and their bandwidth adjusts accordingly.",
+    "start": "00:54:40",
+    "end": "00:54:46"
+  },
+  {
+    "text": "This affects the subsequent customers which they are matched to in a positive manner, and creates a better experience  for both parties.",
+    "start": "00:54:46",
+    "end": "00:54:54"
+  },
+  {
+    "text": "So there's a lot more which we can build with what we have, but with this  foundational pipeline, we believe we effectively tackle the problem that needs to be solved.",
+    "start": "00:54:54",
+    "end": "00:55:01"
+  },
+  {
+    "text": "That's  all I have for today.",
+    "start": "00:55:01",
+    "end": "00:55:03"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:55:03",
+    "end": "00:55:03"
+  },
+  {
+    "text": "[APPLAUSE] Nice.",
+    "start": "00:55:03",
+    "end": "00:55:12"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:55:12",
+    "end": "00:55:13"
+  },
+  {
+    "text": "[LAUGHTER] Yeah, I mean a-a little bit of feedback similar  to the last company, as well.",
+    "start": "00:55:13",
+    "end": "00:55:20"
+  },
+  {
+    "text": "Just, there's a lot of companies working in this space too, so I would  just continue to think through, you know, how to find that core differentiation, you know, if you  continue to work on this after the Hackathon.",
+    "start": "00:55:20",
+    "end": "00:55:31"
+  },
+  {
+    "text": "Yeah, I completely agree.",
+    "start": "00:55:31",
+    "end": "00:55:33"
+  },
+  {
+    "text": "I think a key part  that we thought was really exciting was just what you can achieve with custom models.",
+    "start": "00:55:33",
+    "end": "00:55:38"
+  },
+  {
+    "text": "What we're doing by developing a feedback loop is we're creating something where we can create, in a sense, a model which trains itself.",
+    "start": "00:55:38",
+    "end": "00:55:44"
+  },
+  {
+    "text": "We can assess how calls might improve or get worse  after the matching, and that feedback gets fed straight to the matching API so that it knows  whether or not it's done a good job or not.",
+    "start": "00:55:44",
+    "end": "00:55:53"
+  },
+  {
+    "text": "And we find that really interesting and we think that  that's a key differential factor which we can achieve.",
+    "start": "00:55:53",
+    "end": "00:55:57"
+  },
+  {
+    "text": "There might be some opportunities for building some sort of like, synthetic data pipeline here, where you  could like just sort of simulate calls with like an AI bot of some sort and use that  as feedback.",
+    "start": "00:55:59",
+    "end": "00:56:11"
+  },
+  {
+    "text": "I don't know how good that data will be or not, but could be interesting.",
+    "start": "00:56:11",
+    "end": "00:56:15"
+  },
+  {
+    "text": "Yeah, no that's a really interesting thought.",
+    "start": "00:56:15",
+    "end": "00:56:17"
+  },
+  {
+    "text": "Thank you.",
+    "start": "00:56:17",
+    "end": "00:56:17"
+  },
+  {
+    "text": "I know right now, you guys are targeting  customer service agents as well as call centers.",
+    "start": "00:56:18",
+    "end": "00:56:24"
+  },
+  {
+    "text": "Something that could be interesting to think  about is as you think about the different stages of the software adoption life cycle as you go  from your early adopters, to your early majority, and then your late majority, who's eventually  going to justify your evaluation in terms of like, what those ideal customer profiles are  going to look like down the line?",
+    "start": "00:56:24",
+    "end": "00:56:42"
+  },
+  {
+    "text": "Yeah.",
+    "start": "00:56:42",
+    "end": "00:56:42"
+  },
+  {
+    "text": "Thank you for that.",
+    "start": "00:56:42",
+    "end": "00:56:43"
+  },
+  {
+    "text": "I think one key thing was,  we actually had a a judge come to us and talk to us about how they're doing something similar  for sales representatives as well, and we found that really interesting.",
+    "start": "00:56:43",
+    "end": "00:56:52"
+  },
+  {
+    "text": "So, happy to figure  out how we can pivot if that need arises.",
+    "start": "00:56:52",
+    "end": "00:56:56"
+  },
+  {
+    "text": "Thank you so much.",
+    "start": "00:56:58",
+    "end": "00:56:59"
+  },
+  {
+    "text": "Cool, thank you.",
+    "start": "00:56:59",
+    "end": "00:57:00"
+  },
+  {
+    "text": "Thank you HearMeOut!",
+    "start": "00:57:00",
+    "end": "00:57:02"
+  },
+  {
+    "text": "Alright, next up we have  DispatchAI.",
+    "start": "00:57:02",
+    "end": "00:57:07"
+  },
+  {
+    "text": "Please welcome Dispatch.",
+    "start": "00:57:07",
+    "end": "00:57:09"
+  },
+  {
+    "text": "[APPLAUSE] Hi everyone.",
+    "start": "00:57:09",
+    "end": "00:57:16"
+  },
+  {
+    "text": "My name is Spike, and I'm with Dispatch AI.",
+    "start": "00:57:16",
+    "end": "00:57:19"
+  },
+  {
+    "text": "In the United States, over 80% of 911 call centers are critically understaffed.",
+    "start": "00:57:19",
+    "end": "00:57:25"
+  },
+  {
+    "text": "This means that in a crisis, people with real emergencies aren't able to get the support  they need because all the human agents are busy, and they're often put on hold.",
+    "start": "00:57:25",
+    "end": "00:57:36"
+  },
+  {
+    "text": "This is particularly an issue in our neighboring city of Oakland, where last year, the average wait-time was over 60 seconds to pick up a 911 call.",
+    "start": "00:57:36",
+    "end": "00:57:47"
+  },
+  {
+    "text": "Now, in an emergency, every second counts and this  could be literally the difference between life and death.",
+    "start": "00:57:47",
+    "end": "00:57:54"
+  },
+  {
+    "text": "This is unacceptable, and that's why  we built Dispatch AI: the world's first AI 911 call operator designed to eliminate these wait-times.",
+    "start": "00:57:54",
+    "end": "00:58:05"
+  },
+  {
+    "text": "Our system is powered by two key components.",
+    "start": "00:58:05",
+    "end": "00:58:09"
+  },
+  {
+    "text": "First is the voice AI.",
+    "start": "00:58:09",
+    "end": "00:58:11"
+  },
+  {
+    "text": "The voice AI will step into  calls when all human agents are busy, and it will work with the caller to evaluate their situation,  extract the location, and optionally dispatch first-responders directly to the scene.",
+    "start": "00:58:11",
+    "end": "00:58:28"
+  },
+  {
+    "text": "The second part is our powerful dashboard for the operator themself.",
+    "start": "00:58:28",
+    "end": "00:58:33"
+  },
+  {
+    "text": "So the operator will have  access to a birdseye view of all of the ongoing calls, which will be automatically triaged by the  AI into different forms of severity or priority.",
+    "start": "00:58:33",
+    "end": "00:58:45"
+  },
+  {
+    "text": "Further, they'll see that the AI will automatically  extract the location, and we'll provide a live transcript of the call so that they can quickly  see what's going on and even step into the call once they're available.",
+    "start": "00:58:45",
+    "end": "00:58:59"
+  },
+  {
+    "text": "Further, they have buttons  that allow them to directly—with just one click, because the location's already fetched—dispatch  police, firefighters, or paramedics.",
+    "start": "00:58:59",
+    "end": "00:59:10"
+  },
+  {
+    "text": "All of this is done from a human-centric angle.",
+    "start": "00:59:10",
+    "end": "00:59:13"
+  },
+  {
+    "text": "The way how we achieve this is by taking into account the callers' emotions.",
+    "start": "00:59:13",
+    "end": "00:59:18"
+  },
+  {
+    "text": "So for instance, when a caller  shows signs of anxiety or fear, the system could work more to calm them down and make them feel at ease before taking the next safe step.",
+    "start": "00:59:18",
+    "end": "00:59:30"
+  },
+  {
+    "text": "This system is fully designed with ethical safe-guides in mind,  and part of that was fine-tuning a model on over 500 911 calls, so that it could understand the  proper protocols and have a wide— be knowledgeable on a wide variety of possible scenarios in which a 911 operator could assist them, including fake calls or instances where  it may not need assistance.",
+    "start": "00:59:30",
+    "end": "00:59:58"
+  },
+  {
+    "text": "This is all powered by our innovative tech stack that utilizes a  variety of AI components, including the voice AI, the emotional analysis, and of course, a  key component of this: the fine-tuning itself.",
+    "start": "00:59:59",
+    "end": "01:00:12"
+  },
+  {
+    "text": "Our mission is to make requesting emergency  services more effective and efficient.",
+    "start": "01:00:12",
+    "end": "01:00:18"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:00:18",
+    "end": "01:00:19"
+  },
+  {
+    "text": "[APPLAUSE] I'll go first.",
+    "start": "01:00:19",
+    "end": "01:00:29"
+  },
+  {
+    "text": "I thought you did a great job.",
+    "start": "01:00:29",
+    "end": "01:00:32"
+  },
+  {
+    "text": "I thought you presented the problem set, the opportunity, and the product very clearly.",
+    "start": "01:00:32",
+    "end": "01:00:37"
+  },
+  {
+    "text": "And, you only had three minutes but you hit all the relevant points.",
+    "start": "01:00:37",
+    "end": "01:00:40"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:00:41",
+    "end": "01:00:42"
+  },
+  {
+    "text": "The one thing I would encourage you to think about a little bit, is sort of like the optimization  function for these municipalities, right?",
+    "start": "01:00:44",
+    "end": "01:00:53"
+  },
+  {
+    "text": "'Cause if people in Oakland are waiting 60 seconds to  get their 911 call answered, there's a reason for that.",
+    "start": "01:00:53",
+    "end": "01:00:59"
+  },
+  {
+    "text": "I don't know what that is,  but somehow these municipalities have decided that's how they want it to be.",
+    "start": "01:00:59",
+    "end": "01:01:04"
+  },
+  {
+    "text": "And so I would  just think about, you know, as you bring in AI to this problem, doing the potentially  difficult AB test of making sure that whatever it is that these municipalities are actually  optimizing for is actually improved by this.",
+    "start": "01:01:04",
+    "end": "01:01:16"
+  },
+  {
+    "text": "Because it seems like a no-brainer when you  first say it, but like clearly it's this way for some reason that is probably nuanced and-and tricky.",
+    "start": "01:01:16",
+    "end": "01:01:23"
+  },
+  {
+    "text": "So just something to think about.",
+    "start": "01:01:23",
+    "end": "01:01:25"
+  },
+  {
+    "text": "Any other feedback?",
+    "start": "01:01:31",
+    "end": "01:01:33"
+  },
+  {
+    "text": "Well, just just following up on that, I think the key is ease of adoption.",
+    "start": "01:01:33",
+    "end": "01:01:37"
+  },
+  {
+    "text": "I mean, I think you—it's easy going to be, easy to make a productivity argument to the city of  Oakland, but then you got to think about who's actually installing?",
+    "start": "01:01:37",
+    "end": "01:01:46"
+  },
+  {
+    "text": "Who's  paying for this?",
+    "start": "01:01:46",
+    "end": "01:01:47"
+  },
+  {
+    "text": "And who's installing it?",
+    "start": "01:01:47",
+    "end": "01:01:48"
+  },
+  {
+    "text": "Okay, think that's good.",
+    "start": "01:01:52",
+    "end": "01:01:54"
+  },
+  {
+    "text": "Thank you so much.",
+    "start": "01:01:54",
+    "end": "01:01:56"
+  },
+  {
+    "text": "Thank you, Dispatch!",
+    "start": "01:01:56",
+    "end": "01:01:59"
+  },
+  {
+    "text": "Alright, and next up, we have ASL Bridgify.",
+    "start": "01:01:59",
+    "end": "01:02:04"
+  },
+  {
+    "text": "Please welcome ASL Bridgify.",
+    "start": "01:02:04",
+    "end": "01:02:08"
+  },
+  {
+    "text": "[APPLAUSE] Hello.",
+    "start": "01:02:08",
+    "end": "01:02:12"
+  },
+  {
+    "text": "My name is Eisha, and today I'll be presenting ASL Bridgify: the next generation of sign-language interactive learning.",
+    "start": "01:02:12",
+    "end": "01:02:25"
+  },
+  {
+    "text": "Okay, sorry.",
+    "start": "01:02:27",
+    "end": "01:02:28"
+  },
+  {
+    "text": "So, what was the inspiration  behind this?",
+    "start": "01:02:28",
+    "end": "01:02:33"
+  },
+  {
+    "text": "Well, ASL is the third most studied language after Spanish and English.",
+    "start": "01:02:33",
+    "end": "01:02:38"
+  },
+  {
+    "text": "Over a billion people are projected to have some sort of hearing loss deficiency, which is why  it's even more important to have a seamless way of-for people with hearing loss deficiencies  to communicate with people without them and vice versa.",
+    "start": "01:02:38",
+    "end": "01:02:52"
+  },
+  {
+    "text": "And next, there's over a 15,000% return on investment over a 10-year period, demonstrating the value proposition.",
+    "start": "01:02:52",
+    "end": "01:03:00"
+  },
+  {
+    "text": "Existing platforms like Duolingo surprisingly do not take into account ASL learning, which is why  it's important to build an i-interactive platform where individuals can retrieve  the accuracy of their signed texts, as well as characters.",
+    "start": "01:03:00",
+    "end": "01:03:16"
+  },
+  {
+    "text": "Now, our solution includes three  proprietary AI models.",
+    "start": "01:03:21",
+    "end": "01:03:25"
+  },
+  {
+    "text": "First, we use Random Forest— the Random Forest algorithm in order to, in order to  map input po-pose estimation frames of frame length of 200 t-to the predicted, um, predicted Al alphabet from A to Z.",
+    "start": "01:03:25",
+    "end": "01:03:40"
+  },
+  {
+    "text": "Next, we also use an LSTM model, which captures sequential  dependencies to map fr-from hand pose coordinates to the actual word.",
+    "start": "01:03:40",
+    "end": "01:03:51"
+  },
+  {
+    "text": "And then, we also have our individualized RAG calling in—calling in link chain as well as  PDFs that are specific to ASL learning that get chunked and transformed in a vector-dimension space.",
+    "start": "01:03:51",
+    "end": "01:04:08"
+  },
+  {
+    "text": "Now as you can see here, this is a hand-pose estimation extraction using the media pipe library.",
+    "start": "01:04:09",
+    "end": "01:04:18"
+  },
+  {
+    "text": "So you can see A, B, and C.",
+    "start": "01:04:18",
+    "end": "01:04:20"
+  },
+  {
+    "text": "And here's our platform,  where you can—there are different modules to learn alphabets signs as well as sentences.",
+    "start": "01:04:20",
+    "end": "01:04:29"
+  },
+  {
+    "text": "We even  have—we even have our real-time ASL practice, so in real time to capture the sign that you are  actually—the letter that you're actually signing and give you the accuracy for that.",
+    "start": "01:04:29",
+    "end": "01:04:40"
+  },
+  {
+    "text": "So here's an  example of us using the media pipe library to actually extract all of the hand key-points.",
+    "start": "01:04:40",
+    "end": "01:04:47"
+  },
+  {
+    "text": "Here are some videos where they're over— over hundreds of words that you can actually view  to learn each of the hand-signing frames.",
+    "start": "01:04:47",
+    "end": "01:04:55"
+  },
+  {
+    "text": "Now, this is our—this is our proprietary RAG and  the way we've trained this is we—we've we've collected a variety of  PDFs that that are essentially manuals for ASL learning.",
+    "start": "01:04:57",
+    "end": "01:05:10"
+  },
+  {
+    "text": "Potentially in the future,  we—we would want to incorporate things like YouTube transcriptions that can actually be, that  that can actually be transformed and and embedded within our vector-dimension model.",
+    "start": "01:05:10",
+    "end": "01:05:25"
+  },
+  {
+    "text": "Now in the future, this doesn't—ASL doesn't just—hand pose estimation doesn't  just have to be have to be localized to ASL.",
+    "start": "01:05:25",
+    "end": "01:05:36"
+  },
+  {
+    "text": "There are plenty of other opportunities for  for human pose estimation—including fields like dance, martial arts—where you can  not only identify certain techniques, but you can also get feedback generations  from certain input frames.",
+    "start": "01:05:36",
+    "end": "01:05:52"
+  },
+  {
+    "text": "And in the future, this could also be integrated into  existing solutions, such as Zoom, Loom, [and FaceTime Video.",
+    "start": "01:05:52",
+    "end": "01:06:01"
+  },
+  {
+    "text": "So if there's—so given  a signing of a certain sentence transcript, you can get in real time the actual  predicted sentences and words.",
+    "start": "01:06:01",
+    "end": "01:06:14"
+  },
+  {
+    "text": "[APPLAUSE] That's nice work for 36 hours.",
+    "start": "01:06:18",
+    "end": "01:06:30"
+  },
+  {
+    "text": "Um, I-I spent some time  creating assistive technologies for the blind, and-and I would be just very aware of  the market and how you'll approach it and who will be paying.",
+    "start": "01:06:35",
+    "end": "01:06:49"
+  },
+  {
+    "text": "I think that will  be a good thing to pay attention to.",
+    "start": "01:06:49",
+    "end": "01:06:52"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:06:52",
+    "end": "01:06:53"
+  },
+  {
+    "text": "Yeah, as you think about the market, you know, I feel like these language-learning apps are tricky to kind of scale to meaningful  businesses.",
+    "start": "01:06:55",
+    "end": "01:07:04"
+  },
+  {
+    "text": "You know, there was sort of like Rosetta Stone whatever 20 years ago, and then  there's been like Duolinga on this most recent gen, but there aren't like that many that get to  meaningful scale.",
+    "start": "01:07:04",
+    "end": "01:07:14"
+  },
+  {
+    "text": "So, might be worth just thinking about that market and what are the kind of  success-drivers?",
+    "start": "01:07:14",
+    "end": "01:07:20"
+  },
+  {
+    "text": "I think even as I mentioned previously, apart from just hand-pose estimation, I think that there's a big market for body- pose estimation.",
+    "start": "01:07:20",
+    "end": "01:07:27"
+  },
+  {
+    "text": "I think especially in things like  combat training, especially like if you look at the military.",
+    "start": "01:07:27",
+    "end": "01:07:32"
+  },
+  {
+    "text": "Even dance performance  companies, where they have to train dancers and there are actually specific techniques in which they  want—in which they want groundtree feedbacks for, I think those are also potential markets that  could be ready to penetrate into.",
+    "start": "01:07:32",
+    "end": "01:07:48"
+  },
+  {
+    "text": "You chose more traditional machine learning algorithms  and early neuronets like LSTM and, that may be the right answer.",
+    "start": "01:07:48",
+    "end": "01:07:58"
+  },
+  {
+    "text": "That's not obvious  to me, but I think you would, for today's audience, need to explain why you're not using more  contemporary gen-algorithms.",
+    "start": "01:07:58",
+    "end": "01:08:07"
+  },
+  {
+    "text": "Yeah, so initially, we were actually thinking about using more en-encoder based transformer models, but we also ran into some struggles so we just  ended up settling on the LSTMs.",
+    "start": "01:08:07",
+    "end": "01:08:22"
+  },
+  {
+    "text": "But in the future, we would obviously  trans-we would obviously adapt more, um, of the state-of-the-art transformers and even in  the case for feedback generation, for given hand poses, that could be an easy encoder-to-decoder, multi-self attention model that you could train.",
+    "start": "01:08:22",
+    "end": "01:08:43"
+  },
+  {
+    "text": "Okay, thank you so much.",
+    "start": "01:08:45",
+    "end": "01:08:49"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:08:49",
+    "end": "01:08:50"
+  },
+  {
+    "text": "Thank you!",
+    "start": "01:08:50",
+    "end": "01:08:51"
+  },
+  {
+    "text": "Alright, our last contestant for the grand prize is Greenwise!",
+    "start": "01:08:51",
+    "end": "01:08:57"
+  },
+  {
+    "text": "Please welcome Greenwise.",
+    "start": "01:08:57",
+    "end": "01:09:00"
+  },
+  {
+    "text": "[APPLAUSE] When I was 14, I stopped  eating all meat.",
+    "start": "01:09:00",
+    "end": "01:09:10"
+  },
+  {
+    "text": "I lasted about two months.",
+    "start": "01:09:10",
+    "end": "01:09:13"
+  },
+  {
+    "text": "Now, even though I still eat meat, there  are a lot of small changes you can make that have a huge impact on your carbon footprint.",
+    "start": "01:09:13",
+    "end": "01:09:24"
+  },
+  {
+    "text": "For example, by switching from beef to chicken, you cut the carbon footprint of your meals by six times.",
+    "start": "01:09:24",
+    "end": "01:09:32"
+  },
+  {
+    "text": "What we do is we help you make that switch from beef to chicken for everything: for your shoes,  your shirt, household supplies, food.",
+    "start": "01:09:32",
+    "end": "01:09:42"
+  },
+  {
+    "text": "Everything has a carbon cost and a carbon footprint that  we can mitigate.",
+    "start": "01:09:42",
+    "end": "01:09:47"
+  },
+  {
+    "text": "So, how does a consumer analyze all their purchases and the carbon footprint of  anything, and try to make all these very difficult decisions, and research about how they should  change their actions?",
+    "start": "01:09:47",
+    "end": "01:09:59"
+  },
+  {
+    "text": "Well, this is where Greenwise comes in.",
+    "start": "01:09:59",
+    "end": "01:10:01"
+  },
+  {
+    "text": "We seamlessly integrate with  existing customer purchase models to basically input what the consumer is already doing, for example, through receipts or through emails.",
+    "start": "01:10:01",
+    "end": "01:10:14"
+  },
+  {
+    "text": "We have integrated with Apple Pay, with  Amazon, and with Square to automatically get their purchases into our system.",
+    "start": "01:10:14",
+    "end": "01:10:23"
+  },
+  {
+    "text": "From there, we compare—we vectorize their purchase and compare it to our vector database.",
+    "start": "01:10:23",
+    "end": "01:10:30"
+  },
+  {
+    "text": "This database  has all the carbon footprints of over 10,000 products that we've analyzed and made sure  that these are accurate carbon estimates.",
+    "start": "01:10:30",
+    "end": "01:10:39"
+  },
+  {
+    "text": "Additionally, by using the vector embedding, we  make sure that these similarity scores are very accurate.",
+    "start": "01:10:39",
+    "end": "01:10:45"
+  },
+  {
+    "text": "It's not an LLM that can hallucinate.",
+    "start": "01:10:45",
+    "end": "01:10:48"
+  },
+  {
+    "text": "These are real accuracy scores and real carbon predictions.",
+    "start": "01:10:48",
+    "end": "01:10:52"
+  },
+  {
+    "text": "From there it directly can tell them  an alternative product that is very similar but has a less carbon footprint.",
+    "start": "01:10:52",
+    "end": "01:10:59"
+  },
+  {
+    "text": "Additionally, this  presents a lot of room for scaling when other businesses want to analyze their carbon footprint  for their products, or for events and other bigger venues.",
+    "start": "01:10:59",
+    "end": "01:11:11"
+  },
+  {
+    "text": "So from good intentions to  reality, let's make it happen.",
+    "start": "01:11:11",
+    "end": "01:11:23"
+  },
+  {
+    "text": "[Applause] It's a very innovative RAG use case.",
+    "start": "01:11:23",
+    "end": "01:11:31"
+  },
+  {
+    "text": "I would have  never thought of that.",
+    "start": "01:11:31",
+    "end": "01:11:32"
+  },
+  {
+    "text": "It's pretty interesting.",
+    "start": "01:11:32",
+    "end": "01:11:34"
+  },
+  {
+    "text": "Um, we're not using RAG here.",
+    "start": "01:11:34",
+    "end": "01:11:35"
+  },
+  {
+    "text": "Oh it's not?",
+    "start": "01:11:35",
+    "end": "01:11:36"
+  },
+  {
+    "text": "It's similar in that it uses a vector embedding for, um, finding similarity, but the similarity is directly the output.",
+    "start": "01:11:36",
+    "end": "01:11:45"
+  },
+  {
+    "text": "Yes that's right.",
+    "start": "01:11:45",
+    "end": "01:11:47"
+  },
+  {
+    "text": "Yep.",
+    "start": "01:11:47",
+    "end": "01:11:47"
+  },
+  {
+    "text": "Is this a subscription product?",
+    "start": "01:11:49",
+    "end": "01:11:52"
+  },
+  {
+    "text": "Or you would  imagine it being a subscription product?",
+    "start": "01:11:52",
+    "end": "01:11:57"
+  },
+  {
+    "text": "We would or you can talk.",
+    "start": "01:11:57",
+    "end": "01:11:59"
+  },
+  {
+    "text": "Uh...",
+    "start": "01:11:59",
+    "end": "01:12:00"
+  },
+  {
+    "text": "probably not.",
+    "start": "01:12:00",
+    "end": "01:12:01"
+  },
+  {
+    "text": "We, ideally, we'd integrate with existing businesses like Instacart or Safeway so that they can  show our results on how green or how the carbon footprint of certain products is on  their app.",
+    "start": "01:12:01",
+    "end": "01:12:23"
+  },
+  {
+    "text": "But it also works for consumers to use on their own as demonstrated here.",
+    "start": "01:12:23",
+    "end": "01:12:31"
+  },
+  {
+    "text": "People wouldn't pay for a subscription though.",
+    "start": "01:12:31",
+    "end": "01:12:36"
+  },
+  {
+    "text": "Okay I think that's all the comments.",
+    "start": "01:12:40",
+    "end": "01:12:44"
+  },
+  {
+    "text": "Thank you so much.",
+    "start": "01:12:44",
+    "end": "01:12:46"
+  },
+  {
+    "text": "Greenwise, thank you.",
+    "start": "01:12:46",
+    "end": "01:12:49"
+  },
+  {
+    "text": "Alright!",
+    "start": "01:12:49",
+    "end": "01:12:50"
+  },
+  {
+    "text": "I would now like to invite our esteemed  judges to convene in this secret room, where judges make their decisions and we are going  to have the special prizes.",
+    "start": "01:12:50",
+    "end": "01:13:00"
+  },
+  {
+    "text": "So as I mentioned, a bunch of sponsors came to make this all happen.",
+    "start": "01:13:00",
+    "end": "01:13:04"
+  },
+  {
+    "text": "We're an educational program and it is entirely the support of these sponsors and they're not just  providing support; they got cool prizes!",
+    "start": "01:13:04",
+    "end": "01:13:12"
+  },
+  {
+    "text": "So let's bring them on.",
+    "start": "01:13:12",
+    "end": "01:13:14"
+  },
+  {
+    "text": "In just a minute, you're going  to hear from each one.",
+    "start": "01:13:14",
+    "end": "01:13:16"
+  },
+  {
+    "text": "These are the sponsors for today.",
+    "start": "01:13:16",
+    "end": "01:13:18"
+  },
+  {
+    "text": "I also want to thank our community  sponsors; these are startups—very cool startups—who hung out and helped our young hackers with their  needs and their cool tools.",
+    "start": "01:13:18",
+    "end": "01:13:29"
+  },
+  {
+    "text": "All right, so our very first special prize is going to be announced by  a very special campus partner.",
+    "start": "01:13:29",
+    "end": "01:13:38"
+  },
+  {
+    "text": "I'd like to welcome the Academic Innovation Catalyst.",
+    "start": "01:13:38",
+    "end": "01:13:42"
+  },
+  {
+    "text": "I'd like to  welcome out here Matt Sonsini and Paul Work to tell you about AIC, one of our newest campus partners  doing very cool stuff.",
+    "start": "01:13:42",
+    "end": "01:13:50"
+  },
+  {
+    "text": "Please give them a welcome!",
+    "start": "01:13:50",
+    "end": "01:13:52"
+  },
+  {
+    "text": "Thank you!",
+    "start": "01:13:52",
+    "end": "01:13:52"
+  },
+  {
+    "text": "Thank you so much Caroline, it's just a  thrill to be here.",
+    "start": "01:13:54",
+    "end": "01:13:57"
+  },
+  {
+    "text": "So my partner and I, Paul and I, created Academic Innovation Catalyst or AIC to  release more innovation from academic research for positive social impact and we're focused  initially on the areas of climate tech and AI for good, which is why we're here today.",
+    "start": "01:13:57",
+    "end": "01:14:16"
+  },
+  {
+    "text": "How do  we do this?",
+    "start": "01:14:16",
+    "end": "01:14:18"
+  },
+  {
+    "text": "Well we make proof of concept grants - so no strings attached, non-dilutive grants to  academics with an idea.",
+    "start": "01:14:18",
+    "end": "01:14:25"
+  },
+  {
+    "text": "Then we help them take that idea, carry it through commercialization  to scale and sustainability.",
+    "start": "01:14:25",
+    "end": "01:14:33"
+  },
+  {
+    "text": "So that's what we do.",
+    "start": "01:14:33",
+    "end": "01:14:34"
+  },
+  {
+    "text": "We're thrilled to be here today and we'll be  making two awards to the most compelling business plans or innovations involving the use of AI to  make the world a better place and we couldn't be more excited to announce them in five seconds here.",
+    "start": "01:14:34",
+    "end": "01:14:52"
+  },
+  {
+    "text": "I'll just say that we met with many amazing teams—it's been an extraordinary weekend.",
+    "start": "01:14:52",
+    "end": "01:14:57"
+  },
+  {
+    "text": "Thank you  so much for including us.",
+    "start": "01:14:57",
+    "end": "01:14:59"
+  },
+  {
+    "text": "We had to narrow it down to two; it was tough but I think you'll see that  they're well-deserving.",
+    "start": "01:14:59",
+    "end": "01:15:03"
+  },
+  {
+    "text": "So with that, let me hand it to my partner, Paul Work, to announce the winners  of the AIC AI for Good Awards in 19—or I'm sorry, 2024.",
+    "start": "01:15:03",
+    "end": "01:15:13"
+  },
+  {
+    "text": "[LAUGHTER] This is what happens when you get old  people up here on stage.",
+    "start": "01:15:13",
+    "end": "01:15:20"
+  },
+  {
+    "text": "So anyway, we are really thrilled to be here as Matt said,  and we're especially thrilled with the fact that so many of you are putting your  talents to work for such great causes and for the betterment of humanity.",
+    "start": "01:15:20",
+    "end": "01:15:33"
+  },
+  {
+    "text": "And AI has  so much potential in so many realms, but among the most important is to make the world a  better place and to make a social impact.",
+    "start": "01:15:33",
+    "end": "01:15:42"
+  },
+  {
+    "text": "And so with that, we're thrilled to announce  the first two winners: Dispatch AI and ASL Bridgify.",
+    "start": "01:15:42",
+    "end": "01:15:50"
+  },
+  {
+    "text": "So these are, you know, tremendous  companies.",
+    "start": "01:15:50",
+    "end": "01:15:56"
+  },
+  {
+    "text": "Again, the competition was so strong.",
+    "start": "01:15:56",
+    "end": "01:16:00"
+  },
+  {
+    "text": "May I ask, actually, both  sets of winners to stand in the audience here?",
+    "start": "01:16:00",
+    "end": "01:16:06"
+  },
+  {
+    "text": "And thank you again so much for the terrific work.",
+    "start": "01:16:06",
+    "end": "01:16:11"
+  },
+  {
+    "text": "I think as you heard, ASL Bridgify is doing for sign language what  Duolingo has done for learning other languages and it is so important.",
+    "start": "01:16:11",
+    "end": "01:16:23"
+  },
+  {
+    "text": "It's incredible and  shocking that it's an underserved and currently not served market.",
+    "start": "01:16:23",
+    "end": "01:16:28"
+  },
+  {
+    "text": "And their technologies are  going to change that.",
+    "start": "01:16:28",
+    "end": "01:16:31"
+  },
+  {
+    "text": "And Dispatch AI - what can you say?",
+    "start": "01:16:31",
+    "end": "01:16:33"
+  },
+  {
+    "text": "I mean, it's such an important  issue to be able to get emergency response, to be able to get a response when you need it, and of  course, the reality is, when we have unfortunately too many mass catastrophes, the time when you  need the response most rapid is the time when you're often most short-staffed.",
+    "start": "01:16:33",
+    "end": "01:16:52"
+  },
+  {
+    "text": "And so, Dispatch AI is using artificial intelligence and a variety of technologies to speed that process up and  to help both the dispatchers and the people that the dispatchers are helping.",
+    "start": "01:16:52",
+    "end": "01:17:06"
+  },
+  {
+    "text": "And so, can I ask  the Dispatch AI team to stand up as well and be recognized?",
+    "start": "01:17:06",
+    "end": "01:17:10"
+  },
+  {
+    "text": "It's a great job.",
+    "start": "01:17:10",
+    "end": "01:17:12"
+  },
+  {
+    "text": "Congratulations to all of you and and to everyone who is here today.",
+    "start": "01:17:12",
+    "end": "01:17:18"
+  },
+  {
+    "text": "Thank you so much.",
+    "start": "01:17:18",
+    "end": "01:17:20"
+  },
+  {
+    "text": "Thank you, Matt and Paul.",
+    "start": "01:17:20",
+    "end": "01:17:21"
+  },
+  {
+    "text": "Thank  you, Academic Innovation Catalyst.",
+    "start": "01:17:21",
+    "end": "01:17:23"
+  },
+  {
+    "text": "Our next special prize is going to be introduced by our very own  General Manager at SkyDeck, Sibyl Chen!",
+    "start": "01:17:23",
+    "end": "01:17:30"
+  },
+  {
+    "text": "Give her a welcome!",
+    "start": "01:17:30",
+    "end": "01:17:32"
+  },
+  {
+    "text": "[APPLAUSE] Hello everyone.",
+    "start": "01:17:32",
+    "end": "01:17:37"
+  },
+  {
+    "text": "Hope everyone has had a  great weekend.",
+    "start": "01:17:37",
+    "end": "01:17:41"
+  },
+  {
+    "text": "At SkyDeck, about a year and a half ago, we launched the SkyDeck Climate Tech  track, in part thanks to a nice grant from the university with $150,000 to build out the track.",
+    "start": "01:17:41",
+    "end": "01:17:53"
+  },
+  {
+    "text": "And right away, we started putting that to work.",
+    "start": "01:17:53",
+    "end": "01:17:57"
+  },
+  {
+    "text": "We grew our advisor network from, you know, maybe  like five advisers in climate tech to now over 30 advisers that are in the climate tech space.",
+    "start": "01:17:57",
+    "end": "01:18:07"
+  },
+  {
+    "text": "And beyond that, prior to the grant, we had maybe three to five startups every batch that were  in climate tech, and now we average 15 startups per batch in the climate tech space, and we really  hope to see that grow.",
+    "start": "01:18:07",
+    "end": "01:18:22"
+  },
+  {
+    "text": "So I'm very pleased to announce that the winner of the SkyDeck Climate  Tech Track is Team Greenwise.",
+    "start": "01:18:22",
+    "end": "01:18:29"
+  },
+  {
+    "text": "I think they're still in the green room 'cause they just pitched.",
+    "start": "01:18:29",
+    "end": "01:18:33"
+  },
+  {
+    "text": "They were the last ones to go on stage, but they really kind of represent the type of start—  the you know, team members that we like to see at early-stage startups.",
+    "start": "01:18:33",
+    "end": "01:18:43"
+  },
+  {
+    "text": "It's three team members  that are best friends from middle school.",
+    "start": "01:18:43",
+    "end": "01:18:48"
+  },
+  {
+    "text": "Oh, they're all here on stage!",
+    "start": "01:18:48",
+    "end": "01:18:50"
+  },
+  {
+    "text": "Come on out.",
+    "start": "01:18:50",
+    "end": "01:18:51"
+  },
+  {
+    "text": "I wasn't  expecting that.",
+    "start": "01:18:51",
+    "end": "01:18:53"
+  },
+  {
+    "text": "But Anthony, Ben, and Ethan, three best friends from middle school representing  UC Davis, UC Santa Cruz, and UC Barbara, they've built a platform  for carbon footprint tracking with actionable recommendations for  vendors so that people and companies can reduce their overall carbon footprint.",
+    "start": "01:18:53",
+    "end": "01:19:18"
+  },
+  {
+    "text": "So please, help me  in congratulating this team—winners of $25,000.",
+    "start": "01:19:18",
+    "end": "01:19:24"
+  },
+  {
+    "text": "[APPLAUSE] Alright, thank you Sibyl.",
+    "start": "01:19:24",
+    "end": "01:19:28"
+  },
+  {
+    "text": "Thank you, Greenwise.",
+    "start": "01:19:28",
+    "end": "01:19:29"
+  },
+  {
+    "text": "Clicker, clicker.",
+    "start": "01:19:29",
+    "end": "01:19:30"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:19:30",
+    "end": "01:19:31"
+  },
+  {
+    "text": "Alright, next up: special prizes from Intel!",
+    "start": "01:19:31",
+    "end": "01:19:34"
+  },
+  {
+    "text": "Intel, come on out!",
+    "start": "01:19:34",
+    "end": "01:19:35"
+  },
+  {
+    "text": "Intel was here; their table was swamped.",
+    "start": "01:19:35",
+    "end": "01:19:38"
+  },
+  {
+    "text": "I'd like to introduce Gabriel Amaranto!",
+    "start": "01:19:38",
+    "end": "01:19:42"
+  },
+  {
+    "text": "Hi everyone, thank you all  so much and thank you to the organizers for having us.",
+    "start": "01:19:43",
+    "end": "01:19:48"
+  },
+  {
+    "text": "We've had such a great weekend and your projects are so amazing—so thank you to everyone who joined our track.",
+    "start": "01:19:48",
+    "end": "01:19:55"
+  },
+  {
+    "text": "As you can see the  winners behind me, congrats to all the winners!",
+    "start": "01:19:55",
+    "end": "01:20:00"
+  },
+  {
+    "text": "We have our raffle-winner, Ayla Aeress.",
+    "start": "01:20:00",
+    "end": "01:20:02"
+  },
+  {
+    "text": "Third place is  Accel.",
+    "start": "01:20:02",
+    "end": "01:20:04"
+  },
+  {
+    "text": "Second place is Batteries by LLM, and first place is Dispatch AI, so let's give them a hand  of a-a round of applause.",
+    "start": "01:20:04",
+    "end": "01:20:15"
+  },
+  {
+    "text": "Yes, great job amazing projects!",
+    "start": "01:20:15",
+    "end": "01:20:18"
+  },
+  {
+    "text": "If you won, please meet us outside.",
+    "start": "01:20:18",
+    "end": "01:20:21"
+  },
+  {
+    "text": "I want  to hand you your prizes.",
+    "start": "01:20:21",
+    "end": "01:20:23"
+  },
+  {
+    "text": "We have them with us, so please meet us outside so we can take pictures and  give you your prizes.",
+    "start": "01:20:23",
+    "end": "01:20:28"
+  },
+  {
+    "text": "Thank you!",
+    "start": "01:20:28",
+    "end": "01:20:29"
+  },
+  {
+    "text": "Thank you, Intel Alright, next up: AWS.",
+    "start": "01:20:29",
+    "end": "01:20:33"
+  },
+  {
+    "text": "Come on stage, AWS!",
+    "start": "01:20:33",
+    "end": "01:20:35"
+  },
+  {
+    "text": "We've got  Rohit Tiwari, Kevin Lu and Brandon Middleton and that's what they're going to tell you, go ahead Rohit!",
+    "start": "01:20:35",
+    "end": "01:20:44"
+  },
+  {
+    "text": "Howdy there!",
+    "start": "01:20:44",
+    "end": "01:20:45"
+  },
+  {
+    "text": "Can you all hear me?",
+    "start": "01:20:45",
+    "end": "01:20:46"
+  },
+  {
+    "text": "Yes?",
+    "start": "01:20:46",
+    "end": "01:20:47"
+  },
+  {
+    "text": "Awesome.",
+    "start": "01:20:47",
+    "end": "01:20:47"
+  },
+  {
+    "text": "Well hey, thank you so much SkyDeck team  for having us and CalHacks.",
+    "start": "01:20:47",
+    "end": "01:20:51"
+  },
+  {
+    "text": "This has been an extremely impressively run operation and we're  really excited to be partners and sponsors of this hackathon.",
+    "start": "01:20:51",
+    "end": "01:20:59"
+  },
+  {
+    "text": "Today, we have three different  prizes—actually, let me introduce myself first.",
+    "start": "01:20:59",
+    "end": "01:21:03"
+  },
+  {
+    "text": "We have Brandon, Kevin and \"Ro,\" Rohit—we are members of  the generative AI organization at AWS.",
+    "start": "01:21:03",
+    "end": "01:21:09"
+  },
+  {
+    "text": "We work with top generative AI startups like Anthropics,  Stability, Perplexity and others in the development of their large language models as well  as our overall, kind of inorganic and organic growth strategy including investments as well.",
+    "start": "01:21:09",
+    "end": "01:21:25"
+  },
+  {
+    "text": "Today, we have three different prizes.",
+    "start": "01:21:25",
+    "end": "01:21:27"
+  },
+  {
+    "text": "We have four of the teams that we have  chosen to give the prizes out to.",
+    "start": "01:21:27",
+    "end": "01:21:32"
+  },
+  {
+    "text": "Our first place prize is for $10,000 in AWS credits, and we have two other prizes— one for climate tech and then one for responsible AI, which are 5,000.",
+    "start": "01:21:32",
+    "end": "01:21:43"
+  },
+  {
+    "text": "I did want to say that we talked to so many impressive startups and founding teams  today—and hackathon teams today.",
+    "start": "01:21:43",
+    "end": "01:21:51"
+  },
+  {
+    "text": "I wish we could give prizes to all of them.",
+    "start": "01:21:51",
+    "end": "01:21:54"
+  },
+  {
+    "text": "We did want  to recommend that those who we spoke with and I think we have these conversations with  you already, to go ahead and apply for the AWS Generative AI accelerator, as well as our AWS  Activate Program to receive additional credits.",
+    "start": "01:21:54",
+    "end": "01:22:08"
+  },
+  {
+    "text": "I'll go first.",
+    "start": "01:22:08",
+    "end": "01:22:09"
+  },
+  {
+    "text": "I'm going to be announcing  the climate tech.",
+    "start": "01:22:09",
+    "end": "01:22:11"
+  },
+  {
+    "text": "We're going to give the prize out to DisasterAid.",
+    "start": "01:22:11",
+    "end": "01:22:15"
+  },
+  {
+    "text": "Is DisasterAid  in the room today?",
+    "start": "01:22:15",
+    "end": "01:22:19"
+  },
+  {
+    "text": "Yes.",
+    "start": "01:22:19",
+    "end": "01:22:20"
+  },
+  {
+    "text": "Good.",
+    "start": "01:22:20",
+    "end": "01:22:20"
+  },
+  {
+    "text": "Good job, guys.",
+    "start": "01:22:20",
+    "end": "01:22:22"
+  },
+  {
+    "text": "And then for responsible AI, we have a  two-way tie so we're splitting that prize into 2.",
+    "start": "01:22:22",
+    "end": "01:22:27"
+  },
+  {
+    "text": "5k for each team in credits.",
+    "start": "01:22:27",
+    "end": "01:22:29"
+  },
+  {
+    "text": "And that's GPT  Ethics and DP Ancestry.",
+    "start": "01:22:29",
+    "end": "01:22:31"
+  },
+  {
+    "text": "They're in the, in the hall.",
+    "start": "01:22:31",
+    "end": "01:22:33"
+  },
+  {
+    "text": "[APPLAUSE] Alright, and I'll round us out.",
+    "start": "01:22:33",
+    "end": "01:22:39"
+  },
+  {
+    "text": "Our  grand prize—kind of the most impressive thing that we heard and saw today—is going to  go to Safeguard.",
+    "start": "01:22:39",
+    "end": "01:22:45"
+  },
+  {
+    "text": "So Safeguard team, if you're in the building, stand up real fast.",
+    "start": "01:22:45",
+    "end": "01:22:50"
+  },
+  {
+    "text": "Let's give you a round of applause.",
+    "start": "01:22:50",
+    "end": "01:22:53"
+  },
+  {
+    "text": "I don't see them, but God bless you and keep doing what you're  doing.",
+    "start": "01:22:53",
+    "end": "01:22:57"
+  },
+  {
+    "text": "Thanks so much guys.",
+    "start": "01:22:57",
+    "end": "01:22:59"
+  },
+  {
+    "text": "Thank you.",
+    "start": "01:22:59",
+    "end": "01:22:59"
+  },
+  {
+    "text": "Thank you Intel!",
+    "start": "01:22:59",
+    "end": "01:23:01"
+  },
+  {
+    "text": "Our next amazing partner,  Reach Capital!",
+    "start": "01:23:01",
+    "end": "01:23:04"
+  },
+  {
+    "text": "Please come out, Tony Wan!",
+    "start": "01:23:04",
+    "end": "01:23:06"
+  },
+  {
+    "text": "Oh, out of order.",
+    "start": "01:23:08",
+    "end": "01:23:09"
+  },
+  {
+    "text": "Let me see if I can find you.",
+    "start": "01:23:09",
+    "end": "01:23:11"
+  },
+  {
+    "text": "There you are!",
+    "start": "01:23:11",
+    "end": "01:23:12"
+  },
+  {
+    "text": "Alright, okay.",
+    "start": "01:23:12",
+    "end": "01:23:13"
+  },
+  {
+    "text": "Oh, mic.",
+    "start": "01:23:13",
+    "end": "01:23:14"
+  },
+  {
+    "text": "Awesome, thank you so much.",
+    "start": "01:23:14",
+    "end": "01:23:16"
+  },
+  {
+    "text": "Thank you to CalHacks.",
+    "start": "01:23:16",
+    "end": "01:23:17"
+  },
+  {
+    "text": "Thank you  to SkyDeck.",
+    "start": "01:23:17",
+    "end": "01:23:18"
+  },
+  {
+    "text": "It is such a delight and pleasure to be with all of you today, and thank you to  everyone for being here from across the country, from across the world.",
+    "start": "01:23:18",
+    "end": "01:23:25"
+  },
+  {
+    "text": "My name is Tony, and I'm from  Reach Capital and let's just cut to the chase, 'cause there's no drama here.",
+    "start": "01:23:25",
+    "end": "01:23:30"
+  },
+  {
+    "text": "We want to congratulate  Frodo for winning our AI and Education prize.",
+    "start": "01:23:30",
+    "end": "01:23:35"
+  },
+  {
+    "text": "Frodo, Aman Kush and the team: if you are here, please  stand up.",
+    "start": "01:23:35",
+    "end": "01:23:38"
+  },
+  {
+    "text": "Please stand up.",
+    "start": "01:23:38",
+    "end": "01:23:39"
+  },
+  {
+    "text": "Alright, you are right up front.",
+    "start": "01:23:39",
+    "end": "01:23:41"
+  },
+  {
+    "text": "You are in the right place.",
+    "start": "01:23:41",
+    "end": "01:23:43"
+  },
+  {
+    "text": "Thank you so  much.",
+    "start": "01:23:43",
+    "end": "01:23:44"
+  },
+  {
+    "text": "You've won the one ring, as they say at least, or $1,000 cash prize so please,  let's meet up afterwards.",
+    "start": "01:23:44",
+    "end": "01:23:51"
+  },
+  {
+    "text": "Reach Capital, we're in early-stage at tech VC firm investing  in edtech: we invest in education across K12, higher-ed, and workforce in tools that expand  access to education and economic ability.",
+    "start": "01:23:51",
+    "end": "01:24:04"
+  },
+  {
+    "text": "Many of the companies in our portfolio were founded  by students themselves because, you know, what better place to find great ideas and great talent  than to go to places like this, where students are living that experience?",
+    "start": "01:24:04",
+    "end": "01:24:15"
+  },
+  {
+    "text": "So, if you're building  venture into edtech, please reach out.",
+    "start": "01:24:15",
+    "end": "01:24:18"
+  },
+  {
+    "text": "Thank you so much.",
+    "start": "01:24:18",
+    "end": "01:24:19"
+  },
+  {
+    "text": "Thank you, Tony.",
+    "start": "01:24:19",
+    "end": "01:24:21"
+  },
+  {
+    "text": "Next up, we have You.",
+    "start": "01:24:21",
+    "end": "01:24:23"
+  },
+  {
+    "text": "com.",
+    "start": "01:24:23",
+    "end": "01:24:23"
+  },
+  {
+    "text": "We have Rex!",
+    "start": "01:24:23",
+    "end": "01:24:25"
+  },
+  {
+    "text": "Come on out, Rex, and tell us about the prize.",
+    "start": "01:24:25",
+    "end": "01:24:30"
+  },
+  {
+    "text": "Applause, please!",
+    "start": "01:24:30",
+    "end": "01:24:35"
+  },
+  {
+    "text": "Hi everybody, thank you so much.",
+    "start": "01:24:35",
+    "end": "01:24:36"
+  },
+  {
+    "text": "Yeah, so we wanted to announce—I'm Rex, we're from You.",
+    "start": "01:24:36",
+    "end": "01:24:40"
+  },
+  {
+    "text": "com.",
+    "start": "01:24:40",
+    "end": "01:24:40"
+  },
+  {
+    "text": "This is Oliver.",
+    "start": "01:24:40",
+    "end": "01:24:42"
+  },
+  {
+    "text": "As you know,  You.",
+    "start": "01:24:42",
+    "end": "01:24:43"
+  },
+  {
+    "text": "com brings transparency and web access to our LLMs to make sure that they're as accurate  as possible.",
+    "start": "01:24:43",
+    "end": "01:24:49"
+  },
+  {
+    "text": "So, we wanted to give an award for the best use of You.",
+    "start": "01:24:49",
+    "end": "01:24:52"
+  },
+  {
+    "text": "com's APIs to Transparify.",
+    "start": "01:24:52",
+    "end": "01:24:54"
+  },
+  {
+    "text": "So  congratulations!",
+    "start": "01:24:54",
+    "end": "01:24:56"
+  },
+  {
+    "text": "If you guys want to stand up, if you're here—there you guys are—yeah, thank you  so much!",
+    "start": "01:24:56",
+    "end": "01:25:02"
+  },
+  {
+    "text": "Transparify did an incredible job by— they were live streaming videos, factchecking  them as they went using sources from the web and You.",
+    "start": "01:25:02",
+    "end": "01:25:10"
+  },
+  {
+    "text": "com search APIs so it was really incredible and  powerful.",
+    "start": "01:25:10",
+    "end": "01:25:13"
+  },
+  {
+    "text": "Oliver will talk about our Custom Assistant.",
+    "start": "01:25:13",
+    "end": "01:25:16"
+  },
+  {
+    "text": "Yeah, so for our Best Custom Assistant,  we'd like to give that to Eventsdash.",
+    "start": "01:25:16",
+    "end": "01:25:21"
+  },
+  {
+    "text": "ai.",
+    "start": "01:25:21",
+    "end": "01:25:21"
+  },
+  {
+    "text": "with Oliver and Davesh.",
+    "start": "01:25:21",
+    "end": "01:25:23"
+  },
+  {
+    "text": "So Oliver and Davesh, can you please  stand up if you're in the room?",
+    "start": "01:25:23",
+    "end": "01:25:28"
+  },
+  {
+    "text": "Congrats—over there, yeah.",
+    "start": "01:25:28",
+    "end": "01:25:30"
+  },
+  {
+    "text": "So we were particularly impressed  by what they've built.",
+    "start": "01:25:30",
+    "end": "01:25:36"
+  },
+  {
+    "text": "Essentially, they handled booking, searching, and even talking  with customer agents on the phone, and they used You.",
+    "start": "01:25:36",
+    "end": "01:25:44"
+  },
+  {
+    "text": "com in a way to actually find these  events, so we were incredibly impressed by them and can't wait to see what they do in the future.",
+    "start": "01:25:44",
+    "end": "01:25:52"
+  },
+  {
+    "text": "Yeah, come find us after and we will give you your awards.",
+    "start": "01:25:52",
+    "end": "01:25:56"
+  },
+  {
+    "text": "Thank you, Hume—or You!",
+    "start": "01:25:56",
+    "end": "01:25:58"
+  },
+  {
+    "text": "Alright, I think we're going back to Hume now, with Zach.",
+    "start": "01:25:58",
+    "end": "01:26:02"
+  },
+  {
+    "text": "Great  house.",
+    "start": "01:26:02",
+    "end": "01:26:03"
+  },
+  {
+    "text": "Welcome Hume, nice round of applause, please!",
+    "start": "01:26:03",
+    "end": "01:26:07"
+  },
+  {
+    "text": "[APPLAUSE] Hi!",
+    "start": "01:26:07",
+    "end": "01:26:10"
+  },
+  {
+    "text": "So first, just a huge thanks to  SkyDeck and CalHacks for organizing this event and inviting us back and to all  the staff for running such a memorable event.",
+    "start": "01:26:10",
+    "end": "01:26:20"
+  },
+  {
+    "text": "So I'm going to be announcing  our three categories for our track we have: our best empathic AI  for social good, best empathic AI for just— most innovative empathic AI, and then just  the best overall.",
+    "start": "01:26:20",
+    "end": "01:26:36"
+  },
+  {
+    "text": "As you can see the teams here, we've chosen ScamScanner.",
+    "start": "01:26:36",
+    "end": "01:26:39"
+  },
+  {
+    "text": "Can ScamScanner—  are you're here?",
+    "start": "01:26:39",
+    "end": "01:26:41"
+  },
+  {
+    "text": "Can you stand up?",
+    "start": "01:26:41",
+    "end": "01:26:42"
+  },
+  {
+    "text": "Alright round of applause.",
+    "start": "01:26:42",
+    "end": "01:26:44"
+  },
+  {
+    "text": "For most innovative, we have Bloom Buddy.",
+    "start": "01:26:44",
+    "end": "01:26:48"
+  },
+  {
+    "text": "Where's Bloom Buddy?",
+    "start": "01:26:48",
+    "end": "01:26:51"
+  },
+  {
+    "text": "Can you stand up?",
+    "start": "01:26:51",
+    "end": "01:26:52"
+  },
+  {
+    "text": "Yeah, okay.",
+    "start": "01:26:52",
+    "end": "01:26:54"
+  },
+  {
+    "text": "Great job, you guys!",
+    "start": "01:26:54",
+    "end": "01:26:55"
+  },
+  {
+    "text": "Talking of plans.",
+    "start": "01:26:55",
+    "end": "01:26:57"
+  },
+  {
+    "text": "And then, best  use of empathic AI overall, we chose lock in.",
+    "start": "01:26:57",
+    "end": "01:27:01"
+  },
+  {
+    "text": "It's a personalized learning assistant.",
+    "start": "01:27:01",
+    "end": "01:27:04"
+  },
+  {
+    "text": "Are  you in the room?",
+    "start": "01:27:04",
+    "end": "01:27:05"
+  },
+  {
+    "text": "Where are you?",
+    "start": "01:27:05",
+    "end": "01:27:06"
+  },
+  {
+    "text": "Yeah, there we are.",
+    "start": "01:27:06",
+    "end": "01:27:07"
+  },
+  {
+    "text": "Okay.",
+    "start": "01:27:07",
+    "end": "01:27:07"
+  },
+  {
+    "text": "Congratulations, you guys!",
+    "start": "01:27:07",
+    "end": "01:27:09"
+  },
+  {
+    "text": "Come  meet us after outside, we'd love to chat, take pictures, and thank you so much.",
+    "start": "01:27:09",
+    "end": "01:27:14"
+  },
+  {
+    "text": "Thank  you to all the participants, yeah.",
+    "start": "01:27:14",
+    "end": "01:27:17"
+  },
+  {
+    "text": "Maybe see you next year.",
+    "start": "01:27:17",
+    "end": "01:27:18"
+  },
+  {
+    "text": "So take care!",
+    "start": "01:27:18",
+    "end": "01:27:19"
+  },
+  {
+    "text": "Alright, thanks Hume.",
+    "start": "01:27:19",
+    "end": "01:27:21"
+  },
+  {
+    "text": "Alright, and our last special prize is— there they are—please welcome, Jose Menendez.",
+    "start": "01:27:21",
+    "end": "01:27:27"
+  },
+  {
+    "text": "Hey everyone, very nice to be here.",
+    "start": "01:27:29",
+    "end": "01:27:33"
+  },
+  {
+    "text": "For those of you who haven't heard about groq, groq.",
+    "start": "01:27:33",
+    "end": "01:27:38"
+  },
+  {
+    "text": "com, experience the fastest inference  on Earth, period.",
+    "start": "01:27:38",
+    "end": "01:27:43"
+  },
+  {
+    "text": "All I have to say about groq right now, but our special \"groqstar\" award  today goes to ScamScanner.",
+    "start": "01:27:43",
+    "end": "01:27:52"
+  },
+  {
+    "text": "Where are you guys?",
+    "start": "01:27:52",
+    "end": "01:27:54"
+  },
+  {
+    "text": "So these guys have a product that I want my  mom to use today.",
+    "start": "01:27:54",
+    "end": "01:28:01"
+  },
+  {
+    "text": "Right?",
+    "start": "01:28:01",
+    "end": "01:28:02"
+  },
+  {
+    "text": "Monitor your call for potential scams—who doesn't want that for  your mom, your uncles, and the whole thing?",
+    "start": "01:28:02",
+    "end": "01:28:11"
+  },
+  {
+    "text": "Now, they get 1,000 credits on Groq Cloud,  which is many, many millions of tokens.",
+    "start": "01:28:11",
+    "end": "01:28:24"
+  },
+  {
+    "text": "There's two special mentions I have to read so  I don't screw up: 3 Brown 1 Blue, where are you guys?",
+    "start": "01:28:24",
+    "end": "01:28:32"
+  },
+  {
+    "text": "Another awesome solution—these guys are  generating on the fly incredible videos for math, something that I would use right now as well.",
+    "start": "01:28:32",
+    "end": "01:28:48"
+  },
+  {
+    "text": "And Transverify, are you guys around here?",
+    "start": "01:28:48",
+    "end": "01:28:51"
+  },
+  {
+    "text": "You've been mentioned as well.",
+    "start": "01:28:51",
+    "end": "01:28:54"
+  },
+  {
+    "text": "Transverify,  very cool.",
+    "start": "01:28:54",
+    "end": "01:28:55"
+  },
+  {
+    "text": "Who doesn't want to hear a podcast with instant fact-checking, am I right?",
+    "start": "01:28:55",
+    "end": "01:29:02"
+  },
+  {
+    "text": "Now, my special surprise for the day: I want to make a very special mention of Nathan Bog.",
+    "start": "01:29:02",
+    "end": "01:29:11"
+  },
+  {
+    "text": "Are you  around?",
+    "start": "01:29:11",
+    "end": "01:29:13"
+  },
+  {
+    "text": "Nathan!",
+    "start": "01:29:13",
+    "end": "01:29:14"
+  },
+  {
+    "text": "Alright.",
+    "start": "01:29:14",
+    "end": "01:29:15"
+  },
+  {
+    "text": "Nathan didn't use groq, so I'm going to give a special Technical Excellence  Award to Nathan for a model he trained and ran on his CPU for doing very interesting dom-  operations corrections on the fly for front-end.",
+    "start": "01:29:15",
+    "end": "01:29:36"
+  },
+  {
+    "text": "Not only that, Nathan is invited officially to  present his work in the groq HQ as soon as he can.",
+    "start": "01:29:36",
+    "end": "01:29:46"
+  },
+  {
+    "text": "That's it guys.",
+    "start": "01:29:46",
+    "end": "01:29:47"
+  },
+  {
+    "text": "I'm very impressed with all the work we saw.",
+    "start": "01:29:47",
+    "end": "01:29:50"
+  },
+  {
+    "text": "Thank you very much.",
+    "start": "01:29:50",
+    "end": "01:29:51"
+  },
+  {
+    "text": "Congratulations.",
+    "start": "01:29:51",
+    "end": "01:29:53"
+  },
+  {
+    "text": "Thank you, groq!",
+    "start": "01:29:53",
+    "end": "01:29:54"
+  },
+  {
+    "text": "Alright!",
+    "start": "01:29:54",
+    "end": "01:29:55"
+  },
+  {
+    "text": "Our  esteemed judges are back with their determination.",
+    "start": "01:29:55",
+    "end": "01:30:01"
+  },
+  {
+    "text": "Please come back judges, come back so we can all enjoy the grand prize.",
+    "start": "01:30:01",
+    "end": "01:30:08"
+  },
+  {
+    "text": "Are you guys ready?",
+    "start": "01:30:08",
+    "end": "01:30:10"
+  },
+  {
+    "text": "Do you have a guess?",
+    "start": "01:30:10",
+    "end": "01:30:11"
+  },
+  {
+    "text": "Is there a voting?",
+    "start": "01:30:11",
+    "end": "01:30:12"
+  },
+  {
+    "text": "Do we have  voting tally, taking bets?",
+    "start": "01:30:12",
+    "end": "01:30:15"
+  },
+  {
+    "text": "Everybody, I want you to guess the top—your top two choices for grand prize and then, I'm going to ask who got it right.",
+    "start": "01:30:15",
+    "end": "01:30:25"
+  },
+  {
+    "text": "Okay.",
+    "start": "01:30:25",
+    "end": "01:30:25"
+  },
+  {
+    "text": "So as our wonderful judges take  their seats—alright, we we got some shout-outs going here.",
+    "start": "01:30:25",
+    "end": "01:30:33"
+  },
+  {
+    "text": "Any other shout-outs?",
+    "start": "01:30:33",
+    "end": "01:30:35"
+  },
+  {
+    "text": "Okay, alright,  this audience is into it.",
+    "start": "01:30:35",
+    "end": "01:30:39"
+  },
+  {
+    "text": "So as a reminder, the grand prize is a $25,000 investment from the  Berkeley SkyDeck Fund, also a golden ticket to our Pad-13 program at SkyDeck AND a special prize: we are happy to announce that OpenAI is providing $2,500 in credits for this winner.",
+    "start": "01:30:39",
+    "end": "01:30:59"
+  },
+  {
+    "text": "So I think we're ready for the drum roll, take your guesses.",
+    "start": "01:30:59",
+    "end": "01:31:04"
+  },
+  {
+    "text": "Only the judges know—I don't know!",
+    "start": "01:31:04",
+    "end": "01:31:07"
+  },
+  {
+    "text": "We're  all about to find out: it's Dispatch AI!",
+    "start": "01:31:07",
+    "end": "01:31:10"
+  },
+  {
+    "text": "Dispatch!",
+    "start": "01:31:10",
+    "end": "01:31:11"
+  },
+  {
+    "text": "Where are you?",
+    "start": "01:31:11",
+    "end": "01:31:12"
+  },
+  {
+    "text": "Come on, come on up!",
+    "start": "01:31:12",
+    "end": "01:31:14"
+  },
+  {
+    "text": "There's stairs right there.",
+    "start": "01:31:14",
+    "end": "01:31:16"
+  },
+  {
+    "text": "Come on, come to the front stage—there you go—thank you judges.",
+    "start": "01:31:16",
+    "end": "01:31:20"
+  },
+  {
+    "text": "I want to invite—while  we invite Dispatch up, I want to thank all of you for coming.",
+    "start": "01:31:20",
+    "end": "01:31:26"
+  },
+  {
+    "text": "I want to invite Spike  from Dispatch—oh here's the team!",
+    "start": "01:31:26",
+    "end": "01:31:33"
+  },
+  {
+    "text": "There we go: Dispatch AI, Grand Prize winners!",
+    "start": "01:31:33",
+    "end": "01:31:37"
+  },
+  {
+    "text": "Well done, well done.",
+    "start": "01:31:37",
+    "end": "01:31:40"
+  },
+  {
+    "text": "I'd like to invite the SkyDeck staff to come out, and the Berkeley Hackathon staff to come  out.",
+    "start": "01:31:40",
+    "end": "01:31:47"
+  },
+  {
+    "text": "Come on out!",
+    "start": "01:31:47",
+    "end": "01:31:48"
+  },
+  {
+    "text": "They've been working all weekend—I think some of them did not sleep at all.",
+    "start": "01:31:48",
+    "end": "01:31:53"
+  },
+  {
+    "text": "Please  give everyone who joined to make this a huge round of applause.",
+    "start": "01:31:53",
+    "end": "01:31:58"
+  },
+  {
+    "text": "Thank you everybody.",
+    "start": "01:31:58",
+    "end": "01:32:00"
+  },
+  {
+    "text": "Thanks for  joining us, we will see you next year!",
+    "start": "01:32:00",
+    "end": "01:32:05"
+  },
+  {
+    "text": "[APPLAUSE]",
+    "start": "01:32:05",
+    "end": "01:32:14"
+  }
+]

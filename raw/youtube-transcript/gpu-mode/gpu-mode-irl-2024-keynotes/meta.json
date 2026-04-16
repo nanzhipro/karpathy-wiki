@@ -1,0 +1,49 @@
+{
+  "videoId": "FH5wiwOyPX4",
+  "title": "GPU MODE IRL 2024 Keynotes",
+  "channel": "GPU MODE",
+  "channelId": "UCJgIbYl6C5no72a0NUAPcTA",
+  "description": "The server met IRL for the first time in the beautiful Accel office https://t.co/hq24uIE0fG\n\nSince then we've rebranded to GPU MODE to be more inclusive of different hardware vendors and programming languages discord.gg/gpumode\n\nWe were lucky to invite some pretty cracked speakers\n00:00 Tri Dao\n16:49 Supriya Rao\n30:50 Andrej Karpathy\n54:06 Lily Liu\n1:14:50 Tim Dettmers\n1:28:46 Wen-mei Hwu\n\nSlides available: https://drive.google.com/drive/folders/1Pz607n07u382_ybdd4gFdrNyEWra5kpj?usp=sharing\n\nAccel has also added a nice playlist where you can just watch individual speakers https://www.youtube.com/playlist?list=PLV3CP0t7OVdq-FwBTwn2Vm0-JgRR3fbko",
+  "duration": 6499,
+  "publishDate": "2024-10-02",
+  "url": "https://www.youtube.com/watch?v=FH5wiwOyPX4",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/FH5wiwOyPX4/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": true
+  },
+  "chapters": [
+    {
+      "title": "Tri Dao",
+      "start": 0,
+      "end": 1009
+    },
+    {
+      "title": "Supriya Rao",
+      "start": 1009,
+      "end": 1850
+    },
+    {
+      "title": "Andrej Karpathy",
+      "start": 1850,
+      "end": 3246
+    },
+    {
+      "title": "Lily Liu",
+      "start": 3246,
+      "end": 4490
+    },
+    {
+      "title": "Tim Dettmers",
+      "start": 4490,
+      "end": 5326
+    },
+    {
+      "title": "Wen-mei Hwu",
+      "start": 5326,
+      "end": 6499
+    }
+  ]
+}

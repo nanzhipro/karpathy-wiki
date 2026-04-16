@@ -1,0 +1,114 @@
+{
+  "videoId": "LCEmiRjPEtQ",
+  "title": "Andrej Karpathy: Software Is Changing (Again)",
+  "channel": "Y Combinator",
+  "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+  "description": "Andrej Karpathy's keynote on June 17, 2025 at AI Startup School in San Francisco. Slides provided by Andrej: https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing\n\nChapters:\n00:00 - Intro\n01:25 - Software evolution: From 1.0 to 3.0\n04:40 - Programming in English: Rise of Software 3.0\n06:10 - LLMs as utilities, fabs, and operating systems\n11:04 - The new LLM OS and historical computing analogies\n14:39 - Psychology of LLMs: People spirits and cognitive quirks\n18:22 - Designing LLM apps with partial autonomy\n23:40 - The importance of human-AI collaboration loops\n26:00 - Lessons from Tesla Autopilot & autonomy sliders\n27:52 - The Iron Man analogy: Augmentation vs. agents\n29:06 - Vibe Coding: Everyone is now a programmer\n33:39 - Building for agents: Future-ready digital infrastructure\n38:14 - Summary: We’re in the 1960s of LLMs — time to build\n\nDrawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.\n\nHe explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer.\n\nMore content from Andrej: https://www.youtube.com/@AndrejKarpathy\n\nThoughts (From Andrej Karpathy!)\n0:49 - Imo fair to say that software is changing quite fundamentally again. LLMs are a new kind of computer, and you program them *in English*. Hence I think they are well deserving of a major version upgrade in terms of software.\n6:06 - LLMs have properties of utilities, of fabs, and of operating systems → New LLM OS, fabbed by labs, and distributed like utilities (for now). Many historical analogies apply - imo we are computing circa ~1960s.\n14:39 - LLM psychology: LLMs = \"people spirits\", stochastic simulations of people, where the simulator is an autoregressive Transformer. Since they are trained on human data, they have a kind of emergent psychology, and are simultaneously superhuman in some ways, but also fallible in many others. Given this, how do we productively work with them hand in hand?\nSwitching gears to opportunities...\n18:16 - LLMs are \"people spirits\" → can build partially autonomous products.\n29:05 - LLMs are programmed in English → make software highly accessible! (yes, vibe coding)\n33:36 - LLMs are new primary consumer/manipulator of digital information (adding to GUIs/humans and APIs/programs) → Build for agents!\n\nSome of the links:\n- Software 2.0 blog post from 2017 https://karpathy.medium.com/software-2-0-a64152b37c35\n- How LLMs flip the script on technology diffusion https://karpathy.bearblog.dev/power-to-the-people/\n- Vibe coding MenuGen (retrospective) https://karpathy.bearblog.dev/vibe-coding-menugen/\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com",
+  "duration": 2371,
+  "publishDate": "2025-06-19",
+  "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LCEmiRjPEtQ/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": true
+  },
+  "chapters": [
+    {
+      "title": "- Intro",
+      "start": 0,
+      "end": 85
+    },
+    {
+      "title": "- Software evolution: From 1.0 to 3.0",
+      "start": 85,
+      "end": 280
+    },
+    {
+      "title": "- Programming in English: Rise of Software 3.0",
+      "start": 280,
+      "end": 370
+    },
+    {
+      "title": "- LLMs as utilities, fabs, and operating systems",
+      "start": 370,
+      "end": 664
+    },
+    {
+      "title": "- The new LLM OS and historical computing analogies",
+      "start": 664,
+      "end": 879
+    },
+    {
+      "title": "- Psychology of LLMs: People spirits and cognitive quirks",
+      "start": 879,
+      "end": 1102
+    },
+    {
+      "title": "- Designing LLM apps with partial autonomy",
+      "start": 1102,
+      "end": 1420
+    },
+    {
+      "title": "- The importance of human-AI collaboration loops",
+      "start": 1420,
+      "end": 1560
+    },
+    {
+      "title": "- Lessons from Tesla Autopilot & autonomy sliders",
+      "start": 1560,
+      "end": 1672
+    },
+    {
+      "title": "- The Iron Man analogy: Augmentation vs. agents",
+      "start": 1672,
+      "end": 1746
+    },
+    {
+      "title": "- Vibe Coding: Everyone is now a programmer",
+      "start": 1746,
+      "end": 2019
+    },
+    {
+      "title": "- Building for agents: Future-ready digital infrastructure",
+      "start": 2019,
+      "end": 2294
+    },
+    {
+      "title": "- Summary: We’re in the 1960s of LLMs — time to build",
+      "start": 2294,
+      "end": 49
+    },
+    {
+      "title": "- Imo fair to say that software is changing quite fundamentally again. LLMs are a new kind of computer, and you program them *in English*. Hence I think they are well deserving of a major version upgrade in terms of software.",
+      "start": 49,
+      "end": 366
+    },
+    {
+      "title": "- LLMs have properties of utilities, of fabs, and of operating systems → New LLM OS, fabbed by labs, and distributed like utilities (for now). Many historical analogies apply - imo we are computing circa ~1960s.",
+      "start": 366,
+      "end": 879
+    },
+    {
+      "title": "- LLM psychology: LLMs = \"people spirits\", stochastic simulations of people, where the simulator is an autoregressive Transformer. Since they are trained on human data, they have a kind of emergent psychology, and are simultaneously superhuman in some ways, but also fallible in many others. Given this, how do we productively work with them hand in hand?",
+      "start": 879,
+      "end": 1096
+    },
+    {
+      "title": "- LLMs are \"people spirits\" → can build partially autonomous products.",
+      "start": 1096,
+      "end": 1745
+    },
+    {
+      "title": "- LLMs are programmed in English → make software highly accessible! (yes, vibe coding)",
+      "start": 1745,
+      "end": 2016
+    },
+    {
+      "title": "- LLMs are new primary consumer/manipulator of digital information (adding to GUIs/humans and APIs/programs) → Build for agents!",
+      "start": 2016,
+      "end": 2371
+    }
+  ]
+}

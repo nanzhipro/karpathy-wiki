@@ -1,0 +1,64 @@
+{
+  "videoId": "lXUZvyajciY",
+  "title": "Andrej Karpathy — “We’re summoning ghosts, not building animals”",
+  "channel": "Dwarkesh Patel",
+  "channelId": "UCXl4i9dYBrFOabk0xGmbkRA",
+  "description": "The Andrej Karpathy episode. During this interview, Andrej explains why reinforcement learning is terrible (but everything else is much worse), why AGI will just blend into the previous ~2.5 centuries of 2% GDP growth, why self driving took so long to crack, and what he sees as the future of education. It was a pleasure chatting with him.\n\n𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒\n* Transcript: https://dwarkesh.substack.com/p/andrej-karpathy\n* Apple Podcasts: https://podcasts.apple.com/us/podcast/andrej-karpathy-agi-is-still-a-decade-away/id1516093381?i=1000732326311\n* Spotify: https://open.spotify.com/episode/3iIYVmmhXwh3fOumypWVpC?si=33d37708b2b44e2f\n\n𝐒𝐏𝐎𝐍𝐒𝐎𝐑𝐒\n* Labelbox helps you get data that is more detailed, more accurate, and higher signal than you could get by default, no matter your domain or training paradigm. Reach out today at https://labelbox.com/dwarkesh\n* Mercury helps you run your business better. It’s the banking platform we use for the podcast — we love that we can see our accounts, cash flows, AR, and AP all in one place. Apply online in minutes at https://mercury.com\n* Google’s Veo 3.1 update is a notable improvement to an already great model. Veo 3.1’s generations are more coherent and the audio is even higher-quality. If you have a Google AI Pro or Ultra plan, you can try it in Gemini today by visiting https://gemini.google\n\nTo sponsor a future episode, visit https://dwarkesh.com/advertise\n\n𝐓𝐈𝐌𝐄𝐒𝐓𝐀𝐌𝐏𝐒\n00:00:00 – AGI is still a decade away\n00:30:33 – LLM cognitive deficits\n00:40:53 – RL is terrible\n00:50:26 – How do humans learn?\n01:07:13 – AGI will blend into 2% GDP growth\n01:18:24 – ASI\n01:33:38 – Evolution of intelligence & culture\n01:43:43 - Why self driving took so long\n01:57:08 - Future of education",
+  "duration": 8768,
+  "publishDate": "2025-10-17",
+  "url": "https://www.youtube.com/watch?v=lXUZvyajciY",
+  "coverImage": "imgs/cover.jpg",
+  "thumbnailUrl": "https://i.ytimg.com/vi/lXUZvyajciY/maxresdefault.jpg",
+  "language": {
+    "code": "en",
+    "name": "English",
+    "isGenerated": false
+  },
+  "chapters": [
+    {
+      "title": "– AGI is still a decade away",
+      "start": 0,
+      "end": 1833
+    },
+    {
+      "title": "– LLM cognitive deficits",
+      "start": 1833,
+      "end": 2453
+    },
+    {
+      "title": "– RL is terrible",
+      "start": 2453,
+      "end": 3026
+    },
+    {
+      "title": "– How do humans learn?",
+      "start": 3026,
+      "end": 4033
+    },
+    {
+      "title": "– AGI will blend into 2% GDP growth",
+      "start": 4033,
+      "end": 4704
+    },
+    {
+      "title": "– ASI",
+      "start": 4704,
+      "end": 5618
+    },
+    {
+      "title": "– Evolution of intelligence & culture",
+      "start": 5618,
+      "end": 6223
+    },
+    {
+      "title": "- Why self driving took so long",
+      "start": 6223,
+      "end": 7028
+    },
+    {
+      "title": "- Future of education",
+      "start": 7028,
+      "end": 8768
+    }
+  ]
+}
