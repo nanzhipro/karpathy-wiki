@@ -2,8 +2,8 @@
 title: Cognitive Core
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [andrej-karpathy-were-summoning-ghosts-not-building-animals/transcript.md]
+updated: 2026-04-18
+sources: [andrej-karpathy-were-summoning-ghosts-not-building-animals/transcript.md, 2025/7.27.md]
 tags: [llm-architecture, agents, karpathy-coinage]
 ---
 
@@ -11,9 +11,10 @@ tags: [llm-architecture, agents, karpathy-coinage]
 
 Karpathy's proposed target for the "right" model size: a small, distilled model that has the **reasoning, language, and meta-cognitive ability** of a large model but strips out rote memorization of facts. Pair it with retrieval and tools and you get a better agent than a giant frozen LLM.
 
-## Source
+## Sources
 
-[Karpathy, Summoning Ghosts](../sources/summoning-ghosts-not-animals.md) — Karpathy's framing of what comes after the scaling plateau.
+- [Karpathy, Summoning Ghosts](../sources/summoning-ghosts-not-animals.md) — the framing.
+- [[karpathy-x-2025-cognitive-core|Jul 27 2025 X post]] — the **full spec**: multimodal in / out, matryoshka (nested at multiple sizes), reasoning with a user-controllable dial, tool-using, LoRA slots for test-time-training, delegates upward to cloud oracles for rare hard problems.
 
 ## The argument
 

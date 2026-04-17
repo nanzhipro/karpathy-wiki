@@ -2,14 +2,14 @@
 title: Bacterial Code
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [2026/2.12.md, 2026/3.19.md, 2026/3.31.md]
+updated: 2026-04-18
+sources: [2025/7.6.md, 2026/2.12.md, 2026/3.19.md, 2026/3.31.md]
 tags: [architecture, dependencies, karpathy-coinage]
 ---
 
 # Bacterial Code
 
-Karpathy's aesthetic (Feb 12 2026) for code designed to be **easily ripped out and reused**. The analogy: bacteria have small, self-contained genomes that can horizontally transfer between organisms. Code written in this style survives the [[agentic-engineering|agent era]] better than tangled, dependency-heavy monoliths.
+Karpathy's aesthetic for code designed to be **easily ripped out and reused**. The analogy — bacteria have small, self-contained genomes that can horizontally transfer between organisms — was **first posted [[karpathy-x-2025-bacterial-code-origin|Jul 6 2025]]** as an aesthetic riff, then hardened into the named stance through 2026. Code written this way survives the [[agentic-engineering|agent era]] better than tangled, dependency-heavy monoliths.
 
 ## The properties
 

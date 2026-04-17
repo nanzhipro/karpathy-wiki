@@ -2,14 +2,21 @@
 title: Vibe Coding
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [andrej-karpathy-software-is-changing-again/transcript.md]
+updated: 2026-04-18
+sources: [andrej-karpathy-software-is-changing-again/transcript.md, 2025/4.22.md, 2025/11.23.md, 2025/12.27.md]
 tags: [software-3-0, coding, karpathy-coinage]
 ---
 
 # Vibe Coding
 
 Karpathy's viral X-post coinage (early 2025): building software by describing what you want in natural language and letting an LLM emit the code, accepting imperfections on vibes rather than rigor. By the time of [[software-is-changing-again]] it's a Wikipedia entry and a term Tom Wolf of [[hugging-face|Hugging Face]] uses in front of high schoolers.
+
+## 2025 arc
+
+- **Apr 22** — [[karpathy-x-2025-build-for-agents|MenuGen blog post]] formalizes the "vibe code → DevOps crunch" pipeline.
+- **Nov 23** — [[llm-council]] project published as a vibe-coded multi-model orchestration app.
+- **Dec 27** — "[[karpathy-x-2025-ai-assisted-coding|I've never felt this much behind]]" post: vibe-coding culture has accelerated past the point any single practitioner can keep up, now a community phenomenon.
+- By 2026 the term is partially superseded by [[agentic-engineering]] as the disciplined sibling.
 
 ## Source
 

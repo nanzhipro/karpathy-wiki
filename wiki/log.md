@@ -183,3 +183,49 @@
 ## [2026-04-17] bulk-update | index.md reflow
 - Added: 10 source pages, 7 entity pages (autoresearch, deepwiki, matx, microgpt, modded-nanogpt, nanoclaw, simile-ai), 14 concept pages (10x-engineer, agentic-engineering, app-store-outdated, atrophy, autoresearch, bacterial-code, byoai, claws, government-legibility, intelligence-brownouts, llm-knowledge-bases, org-code, slopacolypse, supply-chain-attacks)
 - Source counts updated across: andrej-karpathy (10+), claude-code (3), cursor (2), github (3), cs231n (2), nanochat (5), tesla (3), tesla-autopilot (3), modded-nanogpt (3), openai-codex (3), model-context-protocol (2), march-of-nines (3), nanogpt (3), vibe-coding (2), build-for-agents (2), agentic-engineering (4), bacterial-code (3), claws (2), autoresearch (3), supply-chain-attacks (3), app-store-outdated (2), atrophy (2), slopacolypse (2), org-code (2), 10x-engineer (3)
+
+## [2026-04-18] ingest | Karpathy X posts 2025 (full corpus)
+- Scope: All 69 files in raw/2025/ — Karpathy's X posts from Apr–Dec 2025
+- Method: Clustered into 16 thematic source bundles, each with its own summary page
+- Source summaries created:
+  - wiki/sources/karpathy-x-2025-power-to-the-people.md (Apr 8 essay)
+  - wiki/sources/karpathy-x-2025-software-paradigm.md (Jul 19 / Nov 17 / Dec 20)
+  - wiki/sources/karpathy-x-2025-ghosts-and-psychology.md (Oct 2 / Nov 22 / Dec 8)
+  - wiki/sources/karpathy-x-2025-bacterial-code-origin.md (Jul 6)
+  - wiki/sources/karpathy-x-2025-rl-and-learning-paradigms.md (May 11 / Jul 14–30 / Aug 28)
+  - wiki/sources/karpathy-x-2025-cognitive-core.md (Jul 27)
+  - wiki/sources/karpathy-x-2025-ai-assisted-coding.md (9 posts Apr–Dec)
+  - wiki/sources/karpathy-x-2025-build-for-agents.md (Apr 22 / May 1 / Jul 20–25 / Nov 24)
+  - wiki/sources/karpathy-x-2025-evals-and-model-vibes.md (Apr 30 / Aug 29 / Nov 19–23)
+  - wiki/sources/karpathy-x-2025-nanochat-saga.md (Oct 13–24 / Dec 9)
+  - wiki/sources/karpathy-x-2025-tesla-fsd.md (Jul 24 / Nov 13–14)
+  - wiki/sources/karpathy-x-2025-dwarkesh-recap.md (Oct 19)
+  - wiki/sources/karpathy-x-2025-llm-reading.md (Nov 18 / Dec 11)
+  - wiki/sources/karpathy-x-2025-education.md (Nov 25)
+  - wiki/sources/karpathy-x-2025-video-gen.md (Jul 3 / Jul 18)
+  - wiki/sources/karpathy-x-2025-misc.md (23 remaining posts)
+- New concept pages:
+  - wiki/concepts/system-prompt-learning.md (May 11)
+  - wiki/concepts/context-engineering.md (Jul 25)
+  - wiki/concepts/llm-gui.md (May 1 / Jul 20)
+  - wiki/concepts/verification-gap.md (Jul 26 / Aug 25)
+  - wiki/concepts/galaxy-brain-reasoning.md (Dec 11)
+  - wiki/concepts/verifiability.md (Nov 17)
+  - wiki/concepts/rlvr.md (Dec 20)
+  - wiki/concepts/power-to-the-people.md (Apr 8)
+  - wiki/concepts/code-post-scarcity.md (Oct 27)
+  - wiki/concepts/prompt-injection.md (Jul 11)
+- New entity pages:
+  - wiki/entities/reader3.md (Nov 18)
+  - wiki/entities/hn-time-capsule.md (Dec 11)
+  - wiki/entities/llm-council.md (Nov 23)
+  - wiki/entities/richard-sutton.md (Oct 19)
+  - wiki/entities/tinker.md (Oct 19)
+  - wiki/entities/openrouter.md (Aug 29)
+  - wiki/entities/simon-willison.md (Jul 11)
+  - wiki/entities/decart.md (Jul 18)
+  - wiki/entities/prime-intellect.md (May 11)
+  - wiki/entities/anthropic.md (multiple)
+- Updated: index.md (full reflow — Sources, Entities, Concepts sections)
+- Contradictions: none (2025 corpus pre-dates 2026 and is mostly *consistent with* the 2026 frame it set up; the Nov 17 verifiability essay restates the Software 2.0 automation predicate without contradicting the earlier Software 3.0 frame).
+- Note: This fills the 2025 gap between the Apr 10 post (already ingested) and the 2026 X-post corpus. The whole corpus coheres as "the year RLVR made reasoning models real and agentic engineering became thinkable."

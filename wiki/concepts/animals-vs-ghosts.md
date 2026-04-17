@@ -2,8 +2,8 @@
 title: Animals vs Ghosts
 type: concept
 created: 2026-04-17
-updated: 2026-04-17
-sources: [andrej-karpathy-were-summoning-ghosts-not-building-animals/transcript.md]
+updated: 2026-04-18
+sources: [andrej-karpathy-were-summoning-ghosts-not-building-animals/transcript.md, 2025/10.2.md, 2025/11.22.md, 2025/12.8.md]
 tags: [llm-psychology, agi, karpathy-coinage]
 ---
 
@@ -11,9 +11,10 @@ tags: [llm-psychology, agi, karpathy-coinage]
 
 Karpathy's frame for the category error in comparing LLMs to biological intelligence. **Animals** arrive with billions of years of evolved, packaged hardware — instincts, body, motor control, species-specific priors. **Ghosts** are digital entities summoned by imitation of human text; they have no embodiment, no evolved instincts, and a different failure surface.
 
-## Source
+## Sources
 
-[Karpathy, Summoning Ghosts](../sources/summoning-ghosts-not-animals.md) — the podcast from which the title is drawn. The frame structures the whole interview.
+- [Karpathy, Summoning Ghosts](../sources/summoning-ghosts-not-animals.md) — the podcast the frame is drawn from.
+- [[karpathy-x-2025-ghosts-and-psychology|Oct 2 / Nov 22 / Dec 8 2025 X posts]] — Karpathy defends and refines the frame against pure-RL partisans (implicitly [[richard-sutton|Sutton]]): *we are not trying to build animals; we are summoning ghosts, and the engineering target is different.*
 
 ## The distinction
 
