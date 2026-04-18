@@ -43,6 +43,11 @@ Karpathy 是当代 AI 领域**最能塑造范式**的人之一。他不发布最
 - 2023—2024：重回 OpenAI，做 midtraining 与合成数据
 - 2024 至今：独立教育者；创办 [Eureka](wiki/entities/eureka.md)
 
+还有两个传记层面的细节，能解释后来语料里非常多东西：
+
+- **物理 / 硬件视角。** 多伦多阶段是 CS + physics + math；到 2025 年他回头说自己本科犯过一个错误：太重计算的数学视角，太轻物理视角，比如能耗、数据局部性、并行和体系结构。理解这点，就不难明白为什么 [llm.c](wiki/entities/llm-c.md)、CUDA kernel、系统层直觉会不断回到他的公开表达里。[andrej-karpathy](wiki/entities/andrej-karpathy.md) · [2025 杂项帖](wiki/sources/karpathy-x-2025-misc.md)
+- **“ImageNet 的人类基准”。** 在 LLM 时代那套词汇框架之前，他在计算机视觉时代就已经有极高公信力；GPU MODE 主持人称他为 “the reference human for ImageNet”，这个标签很说明问题。它解释了为什么他后来谈 eval、自动驾驶和感知时，总带着一种不是空谈的底气。[andrej-karpathy](wiki/entities/andrej-karpathy.md) · [gpu-mode-irl-2024-keynote](wiki/sources/gpu-mode-irl-2024-keynote.md)
+
 **他留下的东西：**
 - [CS231n](wiki/entities/cs231n.md)——斯坦福第一门深度学习课，把一整代人送进了 DL 领域（2015 年 150 人 → 2017 年 750 人）
 - [Zero to Hero](wiki/entities/zero-to-hero.md)——YouTube 上观看量最高的"从零开始理解神经网络"系列
@@ -137,7 +142,21 @@ Karpathy 是当代 AI 领域**最能塑造范式**的人之一。他不发布最
 
 ---
 
-## 六、他做成了什么
+## 六、偏好、习惯与行为特征
+
+这一层是概念页最容易藏住的部分。Karpathy 的那些框架，下面其实垫着一套相当稳定的工具偏好、环境偏好和认知偏好。
+
+- **偏爱低噪声环境。** 这种模式在 AI 里外都一致：更重视隐私保护的操作系统、更安静的居住环境、尽量少加工的食物、RSS 胜过算法信息流、对隐藏权限和隐藏攻击面高度警惕。他对“背景层面、看不见但持续恶化的噪声”非常敏感。[2025 杂项帖](wiki/sources/karpathy-x-2025-misc.md) · [供应链攻击](wiki/concepts/supply-chain-attacks.md)
+- **文件优先于应用。** 他会反复选择 markdown、图片、本地文件、CLI、MCP、[Obsidian](wiki/concepts/llm-knowledge-bases.md)，而不是黑箱式 SaaS 界面。重点不是怀旧，而是可检查、可迁移、可审计、也更适合 agent 使用。[llm-knowledge-bases](wiki/concepts/llm-knowledge-bases.md) · [BYOAI](wiki/concepts/byoai.md) · [为 agent 而建](wiki/concepts/build-for-agents.md)
+- **本地优先，但不反前沿。** 他喜欢“住在你电脑里”的 AI，能直接进入你的私有上下文和本地网络；但遇到最难的问题，他也毫不犹豫把任务路由给最强的 frontier 系统。稳定的偏好不是技术洁癖，而是让用户杠杆更大、锁定更小。[2025 AI 辅助编程](wiki/sources/karpathy-x-2025-ai-assisted-coding.md) · [BYOAI](wiki/concepts/byoai.md)
+- **紧缰绳、可调自主度。** 他的默认姿态既不是“全信 agent”，也不是“全都自己写”。先问方案、再看取舍、把成功标准说清、让改动尽量增量化、并排审查；一旦模型开始过度思考，就主动把自主度往下拉。[2025 AI 辅助编程](wiki/sources/karpathy-x-2025-ai-assisted-coding.md) · [agentic engineering](wiki/concepts/agentic-engineering.md)
+- **真正稀缺的是品味。** 他多次指出 agent 会过度抽象、滥用 try/catch、过度工程化、留下死代码。这也是为什么 [细菌式代码](wiki/concepts/bacterial-code.md) 和 [代码后稀缺](wiki/concepts/code-post-scarcity.md) 能同时成立：代码本身变便宜了，但判断“什么值得存在”依然昂贵。
+- **公开思考，让作品自己滚雪球。** X 帖、仓库、gist、视频、公开课、周末 demo，以及现在这种个人 wiki。他明显更偏爱能持续积累的公开制品，而不是会消失的私有笔记。[项目雪球](wiki/concepts/snowballs.md) · [llm-knowledge-bases](wiki/concepts/llm-knowledge-bases.md)
+- **偏爱“看得见工艺”的作品。** 就算是看起来离题的帖子也很说明问题：Tolkien、*White Lotus*、*Project Hail Mary*、解释型工具、动画图解、research app。他往往偏爱结构清晰、工艺密集、内部可分析的作品。[2025 杂项帖](wiki/sources/karpathy-x-2025-misc.md) · [2026 杂项帖](wiki/sources/karpathy-x-2026-misc.md)
+
+---
+
+## 七、他做成了什么
 
 ### 六个贡献领域
 
@@ -164,7 +183,7 @@ Karpathy 是当代 AI 领域**最能塑造范式**的人之一。他不发布最
 
 ---
 
-## 七、对 AI 与软件工程的看法
+## 八、对 AI 与软件工程的看法
 
 这是你每天最可能用到的一层。九根支柱：
 
@@ -179,6 +198,18 @@ Karpathy 是当代 AI 领域**最能塑造范式**的人之一。他不发布最
 9. **[BYOAI](wiki/concepts/byoai.md)。** 你的 AI 栈应该在**你这一侧**——能本地跑、能换模型、能扛得住[智能降载 / intelligence brownouts](wiki/concepts/intelligence-brownouts.md)。自然的延伸就是[认知内核 / cognitive core](wiki/concepts/cognitive-core.md)：小、以推理为主、会用工具。
 
 对着 [wiki/overview.md](wiki/overview.md#central-claims-across-the-corpus) 里的 11 条中心主张一起读，就能拿到同一故事的最压缩版本。
+
+---
+
+## 九、几组关键张力
+
+Karpathy 之所以显得立体，不是因为他的语料平整无冲突，恰恰相反：有几组张力会反复出现，而且他是有意不把它们消解掉的。
+
+- **极大赋能，极小信任。** 他非常希望普通个体借助 AI 获得巨大杠杆，但又不断提醒 prompt injection、供应链投毒、隐藏记忆、默认过度 agent 化这些风险。他是激进地支持使用，不是天真地支持托管。
+- **对斜率乐观，对当下不耐烦。** 他在 10 年尺度上结构性看多，但对当前的 UX、可靠性、验证链条又经常很不满意。所以他的表达总会同时带着兴奋和嫌弃。
+- **代码丰裕，品味稀缺。** 他相信代码已经变得便宜、可丢弃，但好结构、好清理、好拆解、好审查反而比以前更重要。稀缺性没有消失，只是换了位置。
+- **本能公开，但筛选严格。** 他几乎什么都公开发，但明显偏爱开放格式、RSS、markdown、CLI 接口、带来源锚点的语料，而不是算法信息流或黑箱产品。
+- **小而本地的审美，同时又高度前沿感知。** 他喜欢小而自足的制品、本地优先的工作方式、认知内核这类“小模型 + 工具”的方向；与此同时，他又会非常敏锐地追踪 frontier 模型质量，并在需要时直接使用最强系统。
 
 ---
 
@@ -243,7 +274,7 @@ flowchart LR
 > [!TIP]
 > **5 分钟：** 读 [wiki/overview.md](wiki/overview.md)。
 > **30 分钟：** 加读 [wiki/entities/andrej-karpathy.md](wiki/entities/andrej-karpathy.md) 和 [wiki/concepts/software-3-0.md](wiki/concepts/software-3-0.md)。
-> **一整天：** 按本 README 的七个章节依次走一遍。
+> **一整天：** 按本 README 前九个章节依次走一遍。
 
 ---
 

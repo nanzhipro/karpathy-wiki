@@ -43,6 +43,11 @@ Karpathy is one of the most **paradigm-shaping** individuals in modern AI. He do
 - 2023–2024: Back to OpenAI, working on midtraining and synthetic data
 - 2024– : Independent educator; founded [Eureka](wiki/entities/eureka.md)
 
+Two biographical details that explain a surprising amount of the later corpus:
+
+- **Physics / hardware lens.** Toronto was CS + physics + math, and in 2025 he says one of his undergraduate mistakes was over-focusing on the *mathematical* lens of computing and under-focusing on the *physical* one: energy, data locality, parallelism, architecture. That helps explain why [llm.c](wiki/entities/llm-c.md), CUDA-kernel talk, and systems-level intuitions keep resurfacing. [andrej-karpathy](wiki/entities/andrej-karpathy.md) · [2025 misc](wiki/sources/karpathy-x-2025-misc.md)
+- **"Reference human for ImageNet."** Before the LLM-era frames, he already carried unusually high credibility in computer vision; the GPU MODE host intro calling him "the reference human for ImageNet" is a revealing shorthand for how he was perceived. It helps explain why later claims on evals, self-driving, and perception feel grounded rather than purely philosophical. [andrej-karpathy](wiki/entities/andrej-karpathy.md) · [gpu-mode-irl-2024-keynote](wiki/sources/gpu-mode-irl-2024-keynote.md)
+
 **What he's left behind:**
 - [CS231n](wiki/entities/cs231n.md) — Stanford's first deep-learning course, which funneled a generation into DL (150 students in 2015 → 750 in 2017)
 - [Zero to Hero](wiki/entities/zero-to-hero.md) — the most watched from-scratch neural-net series on YouTube
@@ -137,7 +142,21 @@ Seven hard positions, each reinforced across multiple sources:
 
 ---
 
-## 6. What He's Built
+## 6. Preferences, Habits, and Behavioral Signatures
+
+This is the layer the concept pages can hide. Karpathy's frames sit on top of very stable preferences about what good tools, good environments, and good cognition look like.
+
+- **Low-noise environments.** The same pattern shows up inside and outside AI: privacy-conscious OS choices, quiet living environments, minimally processed food, RSS over engagement sludge, suspicion of hidden permissions and hidden attack surfaces. He is highly sensitive to invisible background degradation. [2025 misc](wiki/sources/karpathy-x-2025-misc.md) · [supply-chain-attacks](wiki/concepts/supply-chain-attacks.md)
+- **File over app.** He repeatedly chooses markdown, images, local files, CLIs, MCP, and [Obsidian](wiki/concepts/llm-knowledge-bases.md) over opaque SaaS surfaces. The point is not nostalgia; it is inspectability, portability, auditability, and agent-compatibility. [llm-knowledge-bases](wiki/concepts/llm-knowledge-bases.md) · [BYOAI](wiki/concepts/byoai.md) · [build-for-agents](wiki/concepts/build-for-agents.md)
+- **Local-first, but not anti-frontier.** He likes AIs that live on your computer, inside your private context and local network; at the same time, he happily routes to frontier systems for the hardest tasks. The stable preference is not ideological purity, but keeping user leverage high and lock-in low. [karpathy-x-2025-ai-assisted-coding](wiki/sources/karpathy-x-2025-ai-assisted-coding.md) · [BYOAI](wiki/concepts/byoai.md)
+- **Tight leash, adjustable autonomy.** His default is neither "trust the agent" nor "do everything manually." Ask for approaches before code, define success criteria, keep changes incremental, review side-by-side, and pull autonomy *down* when the model starts overthinking. [karpathy-x-2025-ai-assisted-coding](wiki/sources/karpathy-x-2025-ai-assisted-coding.md) · [agentic-engineering](wiki/concepts/agentic-engineering.md)
+- **Taste is the scarce resource.** He says agents over-abstract, over-try/catch, over-engineer, and leave dead code. That is why [bacterial code](wiki/concepts/bacterial-code.md) and [code post-scarcity](wiki/concepts/code-post-scarcity.md) coexist: code is cheap, but judgment about what should exist is still expensive.
+- **Think in public; let artifacts compound.** X posts, repos, gists, videos, open courseware, weekend demos, and now a personal wiki. He prefers public artifacts that can snowball over private notes that disappear. [snowballs](wiki/concepts/snowballs.md) · [llm-knowledge-bases](wiki/concepts/llm-knowledge-bases.md)
+- **Craft that shows its work.** Even the "off-topic" posts are revealing: Tolkien, *White Lotus*, *Project Hail Mary*, explainer tools, animated diagrams, research apps. He tends to like artifacts with visible structure, dense craft, and analyzable internals. [2025 misc](wiki/sources/karpathy-x-2025-misc.md) · [2026 misc](wiki/sources/karpathy-x-2026-misc.md)
+
+---
+
+## 7. What He's Built
 
 ### Six domains of contribution
 
@@ -164,7 +183,7 @@ Seven hard positions, each reinforced across multiple sources:
 
 ---
 
-## 7. Views on AI × Software Engineering
+## 8. Views on AI × Software Engineering
 
 The layer you'll most likely use day-to-day. Nine pillars:
 
@@ -179,6 +198,18 @@ The layer you'll most likely use day-to-day. Nine pillars:
 9. **[BYOAI](wiki/concepts/byoai.md).** Your AI stack should live **on your side** — runnable locally, model-swappable, resilient to [intelligence brownouts](wiki/concepts/intelligence-brownouts.md). The natural extension is [cognitive core](wiki/concepts/cognitive-core.md): small, reasoning-first, tool-using.
 
 Pair with the 11 central claims in [wiki/overview.md](wiki/overview.md#central-claims-across-the-corpus) for the most-compressed version of the same story.
+
+---
+
+## 9. Productive Tensions
+
+Part of what makes Karpathy legible is that his corpus is not flat. Several tensions recur and stay unresolved on purpose:
+
+- **Maximal empowerment, minimal trust.** He wants ordinary individuals to gain enormous leverage from AI, but he also keeps warning about prompt injection, supply-chain compromise, hidden memory, and over-agentic defaults. He is radically pro-use, not naively pro-delegation.
+- **Optimistic on slope, impatient on the present.** He is structurally bullish on 10-year trajectories and often underwhelmed by the current UX, reliability, and verification story. This is why his writing can sound both excited and dissatisfied at the same time.
+- **Code abundance, taste scarcity.** He believes code has become cheap and disposable, yet good structure, cleanup, decomposition, and review matter more than before. The old scarcity moved; it did not disappear.
+- **Open/public by instinct, selective by taste.** He publishes almost everything, but prefers open formats, RSS, markdown, CLI surfaces, and source-anchored corpora over algorithmic feeds or opaque products.
+- **Small/local aesthetic, frontier-aware practice.** He loves tiny self-contained artifacts, local-first setups, and cognitive cores, while also tracking frontier-model quality obsessively and using the best systems available when the task demands it.
 
 ---
 
