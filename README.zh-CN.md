@@ -4,10 +4,19 @@
 
 [English](README.md) · **简体中文**
 
+[![Wiki](https://img.shields.io/badge/Wiki-karpathy--wiki-blue?logo=github)](https://github.com/nanzhipro/karpathy-wiki)
+[![Skill](https://img.shields.io/badge/Skill-llm--wiki--bootstrap-green?logo=github)](https://github.com/nanzhipro/Karpathy-llm-wiki-bootstrap-skill)
+
 </div>
+
 
 > 一个以源头驱动的知识库，内容提炼自 Andrej Karpathy 的公开语料——X 帖、访谈、演讲、开源仓库和个人自述。
 > **目的不是归档链接，而是理解这个人**——他如何思考、如何学习、如何工作、信奉什么、造出了什么，以及他对 AI 和软件工程都在说什么。
+
+<div align="center">
+  <img src="cover-image/karpathy-wiki/cover.png" alt="karpathy-wiki 封面" width="800" />
+</div>
+
 
 本仓库沿用 Karpathy 本人在 [LLM 知识库](wiki/sources/karpathy-x-2026-llm-wiki.md) 一文中勾勒的模式：原始素材放进 `raw/`（只读），LLM 把它编译进 `wiki/`（可读写、可自由重构），编译后的 wiki 再作为未来查询和追加素材的基底。
 

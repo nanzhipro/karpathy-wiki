@@ -4,10 +4,18 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
+[![Wiki](https://img.shields.io/badge/Wiki-karpathy--wiki-blue?logo=github)](https://github.com/nanzhipro/karpathy-wiki)
+[![Skill](https://img.shields.io/badge/Skill-llm--wiki--bootstrap-green?logo=github)](https://github.com/nanzhipro/Karpathy-llm-wiki-bootstrap-skill)
+
 </div>
+
 
 > A source-driven knowledge base distilled from Andrej Karpathy's public corpus — X posts, interviews, talks, open-source repos, and self-bio.
 > **The goal isn't to archive links; it's to understand the person** — how he thinks, how he learns, how he works, what he believes, what he's built, and what he's saying about AI and software engineering.
+
+<div align="center">
+  <img src="cover-image/karpathy-wiki/cover.png" alt="karpathy-wiki cover" width="800" />
+</div>
 
 The repo follows the pattern Karpathy himself sketches in [LLM Knowledge Bases](wiki/sources/karpathy-x-2026-llm-wiki.md): raw material goes into `raw/` (read-only), an LLM compiles it into `wiki/` (read-write, refactored freely), and the compiled wiki becomes the substrate for future queries and ingests.
 
