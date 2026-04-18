@@ -1,5 +1,11 @@
 # karpathy-wiki
 
+<div align="center">
+
+**English** · [简体中文](README.zh-CN.md)
+
+</div>
+
 > A source-driven knowledge base distilled from Andrej Karpathy's public corpus — X posts, interviews, talks, open-source repos, and self-bio.
 > **The goal isn't to archive links; it's to understand the person** — how he thinks, how he learns, how he works, what he believes, what he's built, and what he's saying about AI and software engineering.
 
